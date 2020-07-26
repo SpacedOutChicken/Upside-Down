@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Bully",
+		"unitType": "Melee",
+		"uniqueTo": "Cheaters",
+		"replaces": "Scout",
+		"movement": 5,
+		"strength": 100,
+		"cost": 10,
+    "uniques": ["Ignores terrain cost","Amphibious","Can move immediately once bought","Can move after attacking","+2 Visibility Range","Defense bonus when embarked"],
+		"promotions": ["Shock I","Drill I","Medic I","Cover I","Woodsman","Medic","Blitz","March","Haka War Dance","Slinger Withdraw","Rejuvenation"],
+		"attackSound": "nonmetalhit"
+	}
+]
