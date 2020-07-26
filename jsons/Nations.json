@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Cheaters",
+		"leaderName": "Master Cheat",
+		"adjective": ["Cheating"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "None shall stand in our way. We make our own rules.",
+		"startIntroPart2": "Fuck around and find out.",
+		
+		"declaringWar": "Prepare to be utterly and unfairly undone.",
+		"attacked": "You sure about this?",
+		"defeated": "Did you out-cheat me? No... you must be actually skilled at this game. I envy you.",
+		"introduction": "Don't mind me, I'm just hear to mess things up.",
+		
+		"neutralHello": "What's up?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","What do you think?"],
+		"neutralNo": ["Don't think so","Nope!","I can do better."],
+		"neutralYes": ["Very nice.","I accept.","That'll do."],
+
+		"hateHello": "Why are you bothering me?",
+		"hateLetsHearIt": ["Spit it out.","What do you say?","Talk already."],
+		"hateNo": ["Not good enough.","I'll show you!","Seriously?"],
+		"hateYes": ["Alright, I'll take it.","Fine, fine.","Very well..."],
+		
+		"afterPeace": "Fighting's getting dull. I've got things to build.",
+		"tradeRequest": "Hey, sucker. Care to trade?",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["The Break-In","The Con","The Exploit","The Hack","The Switch","The Swindle","The Lie","The Grift","The Rig","The Fix","The Trick","The Setup","The Payoff","The Getaway","The Thrill"]
+	}
+]
