@@ -10,5 +10,65 @@
     "uniques": ["Ignores terrain cost","Amphibious","Can move immediately once bought","Can move after attacking","+2 Visibility Range","Defense bonus when embarked"],
 		"promotions": ["Shock I","Drill I","Medic I","Cover I","Woodsman","Medic","Blitz","March","Haka War Dance","Slinger Withdraw","Rejuvenation"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Christmas Vikings",
+		"unitType": "WaterMelee",
+		"uniqueTo": "Cheaters",
+		"replaces": "Trireme",
+		"movement": 5,
+		"strength": 100,
+		"cost": 10,
+		"requiredTech": "Sailing",
+		"uniques": ["Bonus as Attacker [75]%", "Invisible to others", "Can attack submarines", "Can enter ice tiles"],
+		"promotions": ["Boarding Party I","Coastal Raider I","Sentry","Logistics","Mobility","Haka War Dance","Slinger Withdraw","Rejuvenation"]
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Cheap Artist",
+		"unitType": "Civilian",
+		"uniqueTo": "Cheaters",
+		"replaces": "Great Artist",
+		"uniques": ["Can start an 8-turn golden age","Can build improvement: Landmark"],
+		"movement": 5,
+		"cost": "10
+	},
+	{
+		"name": "Cheap Scientist",
+		"unitType": "Civilian",
+		"uniqueTo": "Cheaters",
+		"replaces": "Great Scientist",
+		"uniques": ["Can hurry technology research","Can build improvement: Academy"],
+		"movement": 5,
+		"cost": 10
+	},
+	{
+		"name": "Cheap Merchant",
+		"unitType": "Civilian",
+		"uniqueTo": "Cheaters",
+		"replaces": "Great Merchant",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+			"Can build improvement: Customs house"],
+		"movement": 5,
+		"cost": 10
+	},
+	{
+		"name": "Cheap Engineer",
+		"unitType": "Civilian",
+		"uniqueTo":"Cheaters",
+		"replaces": "Great Engineer",
+		"uniques": ["Can speed up construction of a wonder","Can build improvement: Manufactory"],
+		"movement": 5,
+		"cost": 10
+	},
+	{
+		"name": "Cheap General",
+		"unitType": "Civilian",
+		"uniqueTo": "Cheaters",
+		"replaces": "Great General",
+		"uniques": ["Can start an 8-turn golden age","Bonus for units in 2 tile radius 15%",
+			"Heal adjacent units for an additional 15 HP per turn", "Can build improvement: Citadel"],
+		"movement": 5,
+		"cost": 10
 	}
 ]
