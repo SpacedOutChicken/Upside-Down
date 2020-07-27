@@ -29,7 +29,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Cheaters",
 		"replaces": "Great Artist",
-		"cost": "10,
+		"cost": 10,
 		"uniques": ["Can start an 8-turn golden age","Can build improvement: Landmark","Rejuvenation"],
 		"movement": 5
 	},
