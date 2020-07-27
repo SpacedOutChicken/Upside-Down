@@ -29,46 +29,46 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Cheaters",
 		"replaces": "Great Artist",
+		"cost": "10,
 		"uniques": ["Can start an 8-turn golden age","Can build improvement: Landmark"],
-		"movement": 5,
-		"cost": "10
+		"movement": 5
 	},
 	{
 		"name": "Cheap Scientist",
 		"unitType": "Civilian",
 		"uniqueTo": "Cheaters",
 		"replaces": "Great Scientist",
+		"cost": 10,
 		"uniques": ["Can hurry technology research","Can build improvement: Academy"],
-		"movement": 5,
-		"cost": 10
+		"movement": 5
 	},
 	{
 		"name": "Cheap Merchant",
 		"unitType": "Civilian",
 		"uniqueTo": "Cheaters",
 		"replaces": "Great Merchant",
+		"cost": 10,
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
 			"Can build improvement: Customs house"],
-		"movement": 5,
-		"cost": 10
+		"movement": 5
 	},
 	{
 		"name": "Cheap Engineer",
 		"unitType": "Civilian",
 		"uniqueTo":"Cheaters",
 		"replaces": "Great Engineer",
+		"cost": 10,
 		"uniques": ["Can speed up construction of a wonder","Can build improvement: Manufactory"],
-		"movement": 5,
-		"cost": 10
+		"movement": 5
 	},
 	{
 		"name": "Cheap General",
 		"unitType": "Civilian",
 		"uniqueTo": "Cheaters",
 		"replaces": "Great General",
+		"cost": 10,
 		"uniques": ["Can start an 8-turn golden age","Bonus for units in 2 tile radius 15%",
 			"Heal adjacent units for an additional 15 HP per turn", "Can build improvement: Citadel"],
-		"movement": 5,
-		"cost": 10
+		"movement": 5
 	}
 ]
