@@ -3,7 +3,7 @@
 		"name": "Cheaters",
 		"leaderName": "Master Cheat",
 		"adjective": ["Cheating"],
-		"startBias": ["Snow"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "None shall stand in our way. We make our own rules.",
@@ -29,7 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"unique": "SIBERIAN_RICHES",
 		"cities": ["The Break-In","The Con","The Exploit","The Hack","The Switch","The Swindle","The Lie","The Grift","The Rig","The Fix","The Trick","The Setup","The Payoff","The Getaway","The Thrill"]
 	}
 ]
