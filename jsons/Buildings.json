@@ -1,0 +1,16 @@
+[
+  {
+    {
+		"name": "Awesome Obelisk",
+    "replaces": "Monument",
+    "uniqueTo": "Cheaters",
+		"culture": 10,
+    "food": 10,
+    "happiness": 10,
+    "production": 10,
+    "gold": 10,
+    "resourceBonusStats": {"food": 1},
+		"cost": 1
+	  }
+  }
+]
