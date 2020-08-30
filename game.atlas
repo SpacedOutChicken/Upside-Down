@@ -53,23 +53,16 @@ BuildingIcons/Tekram
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Upside-Down Frown
+BuildingIcons/Yrarbil
   rotate: false
   xy: 1226, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Yrarbil
-  rotate: false
-  xy: 1328, 32
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Ytisrevinu
   rotate: false
-  xy: 1532, 32
+  xy: 1430, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -104,7 +97,7 @@ TileSets/FantasyHex/Hill+Ecarret mraf
   index: -1
 TileSets/FantasyHex/Iaom
   rotate: false
-  xy: 1634, 51
+  xy: 1532, 51
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
@@ -265,21 +258,21 @@ UnitIcons/Traeg Raw Yrtnafin
   index: -1
 UnitIcons/Yrlavac
   rotate: false
-  xy: 1430, 32
+  xy: 1328, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Akah Raw Ecnad
   rotate: false
-  xy: 1634, 82
+  xy: 1532, 82
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Regnils Wardhtiw
   rotate: false
-  xy: 1686, 82
+  xy: 1584, 82
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
