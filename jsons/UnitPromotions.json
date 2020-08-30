@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Akah Raw Ecnad", // only for Upside-Down
+		"effect": "-10% combat strength for adjacent enemy units"
+	},
+	{
+		"name": "Regnils Wardhtiw", // only for Upside-Down
+		"effect": "May withdraw before melee (133%)"
+	}
+]

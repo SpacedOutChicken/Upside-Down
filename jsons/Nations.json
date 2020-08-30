@@ -1,35 +1,25 @@
 [
 	{
-		"name": "Cheaters",
-		"leaderName": "Master Cheat",
-		"adjective": ["Cheating"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Domination",
+		"name": "Upside-Down",
+		"leaderName": "Rotatceps",
+		"adjective": ["Upside-Down"],
+		//No preferred victory type - we'll take any kind!
 		
-		"startIntroPart1": "None shall stand in our way. We make our own rules.",
-		"startIntroPart2": "Fuck around and find out.",
+		"startIntroPart1": "History in best the among generals and soldiers its, other the to world the of end one from battle into triumphantly marched have armies its.nation great a as endured has Down-Upside - enemies often and - competitors by surrounded although. Letters and arts, culture of center world the been Down Upside has long. Rotatceps, you to triumph and life long.",
+		"startIntroPart2": "Time of test the stand will that civilization a build you can? World the of center again once Down-Upside make you will? All to order and peace bringing, again rises empire your that it to see you will? Down-Upside of glory the reclaim more once to you to turn people your, Rotatceps mighty O?",
 		
-		"declaringWar": "Prepare to be utterly and unfairly undone.",
-		"attacked": "You sure about this?",
-		"defeated": "Did you out-cheat me? No... you must be actually skilled at this game. I envy you.",
-		"introduction": "Don't mind me, I'm just hear to mess things up.",
+		"declaringWar": "Time payback it's, now. It know you, badly very yourself behaved you've.",
+		"attacked": "It swear I! Dearly regret soon will you! Fool!",
+		"defeated": "Triumph your in merciful be will you hope I. Yours is...day the.",
+		"introduction": "Bravery military for renowned are who, you with relationship just and fair a for hope we.",
 		
-		"neutralHello": "What's up?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","What do you think?"],
-		"neutralNo": ["Don't think so","Nope!","I can do better."],
-		"neutralYes": ["Very nice.","I accept.","That'll do."],
+		"neutralHello": "Peace you wish I.",
+		"hateHello": "Want you do what?",
+		"tradeRequest": "Me with deal this make to – existing for reason a have do you that appears it.",
 
-		"hateHello": "Why are you bothering me?",
-		"hateLetsHearIt": ["Spit it out.","What do you say?","Talk already."],
-		"hateNo": ["Not good enough.","I'll show you!","Seriously?"],
-		"hateYes": ["Alright, I'll take it.","Fine, fine.","Very well..."],
-		
-		"afterPeace": "Fighting's getting dull. I've got things to build.",
-		"tradeRequest": "Hey, sucker. Care to trade?",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "SIBERIAN_RICHES",
-		"cities": ["The Break-In","The Con","The Exploit","The Hack","The Switch","The Swindle","The Lie","The Grift","The Rig","The Fix","The Trick","The Setup","The Payoff","The Getaway","The Thrill"]
+		"outerColor": [153,255,255],
+		"innerColor": [255,51,51],
+		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster","City-State Influence degrades at half rate", "City-State Influence recovers at twice the normal rate","Great General provides double combat bonus","[Great General] is earned [50]% faster","+[20]% Production when constructing [Wonders]","+2 movement for all naval units","+2 Culture per turn from cities before discovering Steam Power","[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Uranium] produced","Double quantity of [Oil] produced","[+1 Gold] from each Trade Route","+25% Production towards any buildings that already exist in the Capital","+1 Sight for all land military units","-50% cost when purchasing tiles","Units fight as though they were at full strength even when damaged","Unhappiness from population decreased by [50]%","67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment","-25% land units maintenance","Pay only one third the usual cost for naval unit maintenance","Melee naval units have a 1/3 chance to capture defeated naval units","[+2 Science] from every specialist","[+2 Science] from every [Great Improvement]","All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.","Golden Age length increases +50%","+1 Movement for all units during Golden Age","+10% Strength for all units during Golden Age","Can embark and move over Coasts and Oceans immediately","+1 Sight when embarked","+[10]% Strength if within 2 tiles of a [Iaom]","Food and Culture from Friendly City-States are increased by 50%","100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)","Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled","Receive triple Gold from Barbarian encampments and pillaging Cities","Embarked units can defend themselves","+30% Strength when fighting City-State units and cities","+[1] Movement for all [Mounted] units","Units ignore terrain costs when moving into any tile with Hills","50% Maintenance costs reduction","No Maintenance costs for improvements in Hills","+1 Movement for all embarked units","Units pay only 1 movement point to embark and disembark","Melee units pay no movement cost to pillage"],
+		"cities": ["Eht Latipac","Nolybab","Snehta","Gnijieb","Sebeht","Nodnol","Sirap","Wocsom","Emor","Accem","Notgnihsaw","Otoyk","Ihled","Nilreb","Lubnatsi","Luoes","Agadnoono","Silopesrep","Ululonoh","Iahtohkus","Dirdam","Oag","Murokarak","Naltithconet","Oczuc","Negahnepoc","Mlohkcots","Nilam","Ecnerolf","Oir ed Orienaj","Prewtna","Nilbud","Eryt","Ru","Aoneg","Ecinev","Slessurb","Lubak","Nodis","Ytamla","Hgrubnide","Eropagnis","Rabiznaz","Yendys","Epac Nwot","Udnamhtak","Ionah","Cebeuq Ytic","Iknisleh","Alauk Rupmul","Alinam","Asahl","Revuocnav","Ognok-Aznab'M","Uhsidagom"]
 	}
 ]

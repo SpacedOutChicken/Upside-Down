@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Iaom",
+		"uniqueTo": "Upside-Down",
+		"culture": 1,
+		"turnsToBuild": 4,
+		"uniques": ["[+1 Culture] for each adjacent [Iaom]", "Can only be built on Coastal tiles"],
+		"techRequired": "Construction",
+		"improvingTech": "Flight",
+		"improvingTechStats": {"gold": 1}
+	},
+	{
+		"name": "Ecarret mraf",
+		"uniqueTo": "Upside-Down",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"uniques": ["[+1 Food] for each adjacent [Mountain]", "Cannot be built on bonus resource"],
+		"techRequired": "Construction",
+		"improvingTech": "Fertilizer",
+		"improvingTechStats": {"food":1}
+	}
+]

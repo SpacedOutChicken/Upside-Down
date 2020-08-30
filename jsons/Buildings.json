@@ -1,16 +1,104 @@
 [
-  {
     {
-		"name": "Awesome Obelisk",
-    "replaces": "Monument",
-    "uniqueTo": "Cheaters",
-		"culture": 10,
-    "food": 10,
-    "happiness": 10,
-    "production": 10,
-    "gold": 10,
-    "resourceBonusStats": {"food": 1},
-		"cost": 1
-	  }
-  }
+        "name": "Yrarbil",
+		"replaces": "Library",
+		"uniqueTo": "Upside-Down",
+		"hurryCostModifier": 25,
+		"gold": 2,
+		"uniques": ["+1 Science Per 2 Population"],
+		"requiredTech": "Writing"
+    },
+    {
+		"name": "Sllaw",
+		"replaces": "Walls",
+		"cost": 65,
+		"uniqueTo": "Upside-Down",
+		"cityStrength": 6,
+		"cityHealth": 100,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry"
+	},
+    {
+        "name": "Skcarrab",
+		"replaces": "Barracks",
+		"uniqueTo": "Upside-Down",
+		"xpForNewUnits": 15,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Culture and Gold costs of acquiring new tiles reduced by 25% in this city"],
+		"requiredTech": "Bronze Working"
+    },
+    {
+		"name": "Elpmet",
+		"replaces": "Temple",
+		"uniqueTo": "Upside-Down",
+		"culture": 4,
+		"happiness": 1,
+		"specialistSlots": {"culture": 1},
+		"requiredBuilding": "Monument",
+		"hurryCostModifier": 15,
+		"requiredTech": "Philosophy"
+    },
+    {
+		"name": "Tekram",
+		"replaces": "Market",
+		"uniqueTo": "Upside-Down",
+		"gold": 2,
+		"specialistSlots": {"gold": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+2 Gold] from [Oil] tiles", "[+2 Gold] from [Oasis] tiles"],
+		"requiredTech": "Currency"
+    },
+    {
+		"name": "Pohskrow",
+		"replaces": "Workshop",
+		"uniqueTo": "Upside-Down",
+		"cost": 140,
+		"maintenance": 2,
+		"production": 2,
+		"specialistSlots": {"production": 1},
+		"percentStatBonus": {"production": 10},
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Forest] tiles"],
+		"requiredTech": "Metal Casting"
+    },
+    {
+		"name": "Ytisrevinu",
+		"replaces": "University",
+		"uniqueTo": "Upside-Down",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"science": 2},
+		"culture": 3,
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles"],
+		"requiredTech": "Education"
+    },
+    {
+		"name": "Eltsac",
+		"replaces": "Castle",
+		"uniqueTo": "Upside-Down",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry"
+    },
+    {
+		"name": "Knab",
+		"replaces": "Bank",
+		"uniqueTo": "Upside-Down",	
+		"gold": 3,
+		"specialistSlots": {"gold": 1},
+		"happiness": 2,
+		"hurryCostModifier": 15,
+        "percentStatBonus": {"gold": 25},
+        "uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+    }
 ]
