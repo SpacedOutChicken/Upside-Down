@@ -8,7 +8,8 @@
 		"strength": 8,
 		"cost": 20,
 		"hurryCostModifier": 20,
-		"promotions": ["Akah Raw Ecnad"],
+		"promotions": ["Akah Raw Ecnad","Woodsman"],
+		"uniques": ["+[33]% combat bonus in [Forest]", "+[33]% combat bonus in [Jungle]", "Heals [25] damage if it kills a unit"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
@@ -81,7 +82,7 @@
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Can construct roads","+33% combat bonus in Forest/Jungle"],
+		"uniques": ["Can construct roads","+[33]% combat bonus in [Forest]", "+[33]% combat bonus in [Jungle]"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -247,7 +248,7 @@
 		"cost": 225,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
-		"uniques": ["+25% bonus in Snow, Tundra and Hills", "Double movement in Snow, Tundra and Hills"],
+		"uniques": ["+[25]% combat bonus in [Snow]", "+[25]% combat bonus in [Tundra]", "+[25]% combat bonus in [Hill]", "Double movement in Snow, Tundra and Hills"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	},
