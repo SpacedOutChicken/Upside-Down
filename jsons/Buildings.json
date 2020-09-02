@@ -7,7 +7,20 @@
 		"gold": 2,
 		"uniques": ["+1 Science Per 2 Population"],
 		"requiredTech": "Writing"
-    },
+	},
+	{
+		"name": "Retaw Llim",
+		"replaces": "Water Mill",
+		"uniqueTo": "Upside-Down",
+		"cost": 75,
+		"food": 2,
+		"production": 1,
+		"uniques": ["[+2 Food] from [Lakes] tiles in this city"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"percentStatBonus": {"food": 15},
+		"requiredTech": "The Wheel"     
+	},
     {
 		"name": "Sllaw",
 		"replaces": "Walls",
