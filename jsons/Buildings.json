@@ -98,6 +98,7 @@
 		"cityHealth": 25,
 		"culture": 2,
 		"hurryCostModifier": 25,
+	    	"uniques": ["[+1 Gold] once [Flight] is discovered"],
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry"
     },
