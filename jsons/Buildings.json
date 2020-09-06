@@ -60,8 +60,7 @@
 		"specialistSlots": {"gold": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
-			"[+2 Gold] from [Oil] tiles", "[+2 Gold] from [Oasis] tiles"],
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City","[+2 Gold] from [Oil] tiles", "[+2 Gold] from [Oasis] tiles"],
 		"requiredTech": "Currency"
     },
     {
@@ -98,7 +97,7 @@
 		"cityHealth": 25,
 		"culture": 2,
 		"hurryCostModifier": 25,
-	    	"uniques": ["[+1 Gold] once [Flight] is discovered"],
+		"uniques": ["[+1 Gold] once [Flight] is discovered"],
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry"
     },
@@ -110,8 +109,8 @@
 		"specialistSlots": {"gold": 1},
 		"happiness": 2,
 		"hurryCostModifier": 15,
-        "percentStatBonus": {"gold": 25},
-        "uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
+	    	"percentStatBonus": {"gold": 25},
+	    	"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
     }
