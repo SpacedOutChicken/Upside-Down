@@ -6,8 +6,7 @@
 		"turnsToBuild": 4,
 		"uniques": ["[+1 Culture] for each adjacent [Iaom]", "Can only be built on Coastal tiles"],
 		"techRequired": "Construction",
-		"improvingTech": "Flight",
-		"improvingTechStats": {"gold": 1}
+		"uniques": ["[+1 Gold] once [Flight] is discovered"]
 	},
 	{
 		"name": "Ecarret mraf",
