@@ -4,9 +4,8 @@
 		"uniqueTo": "Upside-Down",
 		"culture": 1,
 		"turnsToBuild": 4,
-		"uniques": ["[+1 Culture] for each adjacent [Iaom]", "Can only be built on Coastal tiles"],
-		"techRequired": "Construction",
-		"uniques": ["[+1 Gold] once [Flight] is discovered"]
+		"uniques": ["[+1 Culture] for each adjacent [Iaom]", "Can only be built on Coastal tiles","[+1 Gold] once [Flight] is discovered"],
+		"techRequired": "Construction"
 	},
 	{
 		"name": "Ecarret mraf",
