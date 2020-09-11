@@ -187,7 +187,7 @@
 		"cost": 120,
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
-		"uniques": ["+1 Visibility Range","May withdraw before melee"],
+		"uniques": ["+1 Visibility Range","May withdraw before melee ([50]%)"],
 		"hurryCostModifier": 20
 	},
 
