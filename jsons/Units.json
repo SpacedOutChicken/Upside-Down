@@ -325,6 +325,7 @@
 		"cost": 375,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 	},
 	{
