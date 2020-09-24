@@ -1,0 +1,272 @@
+
+game.png
+size: 2048,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+BuildingIcons/Elpmet
+  rotate: false
+  xy: 2, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Eltsac
+  rotate: false
+  xy: 104, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Knab
+  rotate: false
+  xy: 206, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pohskrow
+  rotate: false
+  xy: 818, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Retaw Llim
+  rotate: false
+  xy: 1226, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Skcarrab
+  rotate: false
+  xy: 1532, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sllaw
+  rotate: false
+  xy: 1634, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tekram
+  rotate: false
+  xy: 1838, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Yrarbil
+  rotate: false
+  xy: 1328, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ytisrevinu
+  rotate: false
+  xy: 1532, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Ecarret mraf
+  rotate: false
+  xy: 2, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Iaom
+  rotate: false
+  xy: 206, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Upside-Down
+  rotate: false
+  xy: 1226, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hill+Ecarret mraf
+  rotate: false
+  xy: 2, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Iaom
+  rotate: false
+  xy: 1634, 103
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+UnitIcons/Etagirf
+  rotate: false
+  xy: 104, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Knat
+  rotate: false
+  xy: 308, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Levarac
+  rotate: false
+  xy: 308, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namekip
+  rotate: false
+  xy: 410, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namelfir
+  rotate: false
+  xy: 410, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namesroh
+  rotate: false
+  xy: 512, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namraeps
+  rotate: false
+  xy: 512, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namsdrows
+  rotate: false
+  xy: 614, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namsdrowsgnol
+  rotate: false
+  xy: 614, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namteksum
+  rotate: false
+  xy: 716, 135
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+UnitIcons/Namwobssorc
+  rotate: false
+  xy: 716, 33
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rebmob
+  rotate: false
+  xy: 920, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Recnal
+  rotate: false
+  xy: 1022, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rehcra
+  rotate: false
+  xy: 1124, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rethgif
+  rotate: false
+  xy: 1328, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Roirraw
+  rotate: false
+  xy: 1430, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tehcubert
+  rotate: false
+  xy: 1736, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Thgink
+  rotate: false
+  xy: 1940, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tlupatac
+  rotate: false
+  xy: 818, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Toirahc Rehcra
+  rotate: false
+  xy: 920, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Traeg Lareneg
+  rotate: false
+  xy: 1022, 38
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+UnitIcons/Traeg Raw Yrtnafin
+  rotate: false
+  xy: 1124, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yrlavac
+  rotate: false
+  xy: 1430, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
