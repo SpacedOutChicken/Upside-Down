@@ -15,10 +15,11 @@
 		"cost": 75,
 		"food": 2,
 		"production": 1,
-		"uniques": ["[+2 Food] from [Lakes] tiles in this city"],
+		"uniques": ["[+2 Food] from [Lakes] tiles in this city", "Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
+		"maintenance": 1,
 		"percentStatBonus": {"food": 15},
-		"requiredTech": "The Wheel"     
+		"requiredTech": "The Wheel"  
 	},
     {
 		"name": "Sllaw",
@@ -31,8 +32,8 @@
 		"requiredTech": "Masonry"
 	},
     {
-        "name": "Skcarrab",
-		"replaces": "Barracks",
+		"name": "Skcarrab",
+	    	"replaces": "Barracks",
 		"uniqueTo": "Upside-Down",
 		"xpForNewUnits": 15,
 		"hurryCostModifier": 25,
