@@ -114,7 +114,7 @@
 		"replaces": "Crossbowman",
 		"cost": 120,
 		"requiredTech": "Machinery",
-        	"obsoleteTech": "Industrialization"
+        	"obsoleteTech": "Industrialization",
 		"upgradesTo": "Gatling Gun",
 		"promotions": ["Logistics","Extended Range"],
 		"attackSound": "arrow"
@@ -169,7 +169,7 @@
 		"replaces": "Knight",
 		"uniqueTo": "Upside-Down",
 		"unitType": "Ranged",
-		"range": 4,
+		"range": 2,
 		"movement": 5,
 		"strength": 25,
 		"rangedStrength": 21,
@@ -277,6 +277,7 @@
 		"unitType": "Fighter",
 		"replaces": "Fighter",
 		"uniqueTo": "Upside-Down",
+		//"upgradesTo": "Jet Fighter",
 		"movement": 1,
 		"strength": 45,
 		"rangedStrength": 45,
@@ -291,6 +292,7 @@
 		"unitType": "Bomber",
 		"replaces": "Bomber",
 		"uniqueTo": "Upside-Down",
+		//"upgradesTo": "Stealth Bomber",
 		"movement": 1,
 		"strength": 70,
 		"rangedStrength": 70,
