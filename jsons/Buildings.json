@@ -49,7 +49,7 @@
 		"happiness": 2,
 		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Monument",
-		"hurryCostModifier": 15,
+		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"
     },
     {
