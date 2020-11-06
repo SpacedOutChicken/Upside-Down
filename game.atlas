@@ -1,118 +1,272 @@
 
 game.png
-size: 2048,128
+size: 4096,128
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-BuildingIcons/Fossil Fuel
+BuildingIcons/Elpmet
   rotate: false
-  xy: 206, 2
+  xy: 104, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Infection
+BuildingIcons/Eltsac
   rotate: false
-  xy: 512, 2
+  xy: 206, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Lich King's Tomb
+BuildingIcons/Knab
   rotate: false
-  xy: 716, 2
+  xy: 512, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Graveyard
+BuildingIcons/Pohskrow
   rotate: false
-  xy: 410, 2
+  xy: 1634, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Undead
+BuildingIcons/Retaw Llim
   rotate: false
-  xy: 920, 2
+  xy: 2042, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Graveyard
+BuildingIcons/Skcarrab
   rotate: false
-  xy: 1022, 18
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-UnitIcons/Arms Merchant
-  rotate: false
-  xy: 2, 2
+  xy: 2348, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Black Death
+BuildingIcons/Sllaw
   rotate: false
-  xy: 104, 2
+  xy: 2450, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Ghost
+BuildingIcons/Tekram
   rotate: false
-  xy: 308, 2
+  xy: 2654, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Lich King
+BuildingIcons/Yrarbil
   rotate: false
-  xy: 614, 2
+  xy: 3368, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Lurcher
+BuildingIcons/Ytisrevinu
   rotate: false
-  xy: 818, 2
+  xy: 3572, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Advanced Infection
+ImprovementIcons/Ecarret mraf
   rotate: false
-  xy: 1022, 52
-  size: 50, 50
-  orig: 50, 50
+  xy: 2, 26
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Eat the Living
+ImprovementIcons/Iaom
   rotate: false
-  xy: 1074, 52
-  size: 50, 50
-  orig: 50, 50
+  xy: 410, 26
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Hard to Kill Twice
+NationIcons/Upside-Down
   rotate: false
-  xy: 1126, 52
-  size: 50, 50
-  orig: 50, 50
+  xy: 3266, 26
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Sickening Plague
+TileSets/FantasyHex/Tiles/Hill+Ecarret mraf
   rotate: false
-  xy: 1178, 52
-  size: 50, 50
-  orig: 50, 50
+  xy: 3062, 2
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Summon the Lich King
+TileSets/FantasyHex/Tiles/Iaom
   rotate: false
-  xy: 1230, 52
-  size: 50, 50
-  orig: 50, 50
+  xy: 3674, 97
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+UnitIcons/Etagirf
+  rotate: false
+  xy: 308, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Knat
+  rotate: false
+  xy: 614, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Levarac
+  rotate: false
+  xy: 716, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namekip
+  rotate: false
+  xy: 818, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namelfir
+  rotate: false
+  xy: 920, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namesroh
+  rotate: false
+  xy: 1022, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namraeps
+  rotate: false
+  xy: 1124, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namsdrows
+  rotate: false
+  xy: 1226, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namsdrowsgnol
+  rotate: false
+  xy: 1328, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namteksum
+  rotate: false
+  xy: 1430, 27
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+UnitIcons/Namwobssorc
+  rotate: false
+  xy: 1532, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rebmob
+  rotate: false
+  xy: 1736, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Recnal
+  rotate: false
+  xy: 1838, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rehcra
+  rotate: false
+  xy: 1940, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rethgif
+  rotate: false
+  xy: 2144, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Roirraw
+  rotate: false
+  xy: 2246, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tehcubert
+  rotate: false
+  xy: 2552, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Thgink
+  rotate: false
+  xy: 2756, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tlupatac
+  rotate: false
+  xy: 2858, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Toirahc Rehcra
+  rotate: false
+  xy: 2960, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Traeg Lareneg
+  rotate: false
+  xy: 3062, 32
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+UnitIcons/Traeg Raw Yrtnafin
+  rotate: false
+  xy: 3164, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yrlavac
+  rotate: false
+  xy: 3470, 26
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
