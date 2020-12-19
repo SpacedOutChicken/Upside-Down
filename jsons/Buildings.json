@@ -115,7 +115,6 @@
 	    "percentStatBonus": {"gold": 25},
 		"uniques": ["+5% Production for every Trade Route with a City-State in the empire",
 			"Requires a [Market] in this city"],
-		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
     }
 ]
