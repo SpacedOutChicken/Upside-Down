@@ -15,7 +15,8 @@
 		"cost": 75,
 		"food": 2,
 		"production": 1,
-		"uniques": ["[+2 Food] from [Lakes] tiles in this city", "Must be next to [Fresh water]"],
+		"uniques": ["[+2 Food] from [Lakes] tiles in this city",
+			"Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"percentStatBonus": {"food": 15},
@@ -33,7 +34,7 @@
 	},
     {
 		"name": "Skcarrab",
-	    	"replaces": "Barracks",
+	    "replaces": "Barracks",
 		"uniqueTo": "Upside-Down",
 		"xpForNewUnits": 15,
 		"hurryCostModifier": 25,
@@ -48,8 +49,8 @@
 		"culture": 4,
 		"happiness": 2,
 		"specialistSlots": {"Artist": 1},
-		"requiredBuilding": "Monument",
 		"hurryCostModifier": 25,
+		"uniques": ["Requires a [Monument] in this city"],
 		"requiredTech": "Philosophy"
     },
     {
@@ -60,7 +61,9 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City","[+2 Gold] from [Oil] tiles in this city", "[+2 Gold] from [Oasis] tiles in this city"],
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+2 Gold] from [Oil] tiles in this city",
+			"[+2 Gold] from [Oasis] tiles in this city"],
 		"requiredTech": "Currency"
     },
     {
@@ -85,8 +88,8 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"culture": 3,
-		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles in this city"],
+		"uniques": ["[+2 Science] from [Jungle] tiles in this city",
+			"Requires a [Library] in this city"],
 		"requiredTech": "Education"
     },
     {
@@ -97,8 +100,8 @@
 		"cityHealth": 25,
 		"culture": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Gold] once [Flight] is discovered"],
-		"requiredBuilding": "Walls",
+		"uniques": ["[+1 Gold] once [Flight] is discovered",
+			"Requires a [Walls] in this city"],
 		"requiredTech": "Chivalry"
     },
     {
@@ -109,8 +112,9 @@
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
 		"hurryCostModifier": 15,
-	    	"percentStatBonus": {"gold": 25},
-	    	"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
+	    "percentStatBonus": {"gold": 25},
+		"uniques": ["+5% Production for every Trade Route with a City-State in the empire",
+			"Requires a [Market] in this city"],
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
     }
