@@ -1,6 +1,6 @@
 [
-    {
-        "name": "Yrarbil",
+   	{
+        	"name": "Yrarbil",
 		"replaces": "Library",
 		"uniqueTo": "Upside-Down",
 		"hurryCostModifier": 25,
@@ -22,7 +22,7 @@
 		"percentStatBonus": {"food": 15},
 		"requiredTech": "The Wheel"  
 	},
-    {
+    	{
 		"name": "Sllaw",
 		"replaces": "Walls",
 		"cost": 65,
@@ -32,17 +32,17 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry"
 	},
-    {
+    	{
 		"name": "Skcarrab",
-	    "replaces": "Barracks",
+	   	"replaces": "Barracks",
 		"uniqueTo": "Upside-Down",
 		"xpForNewUnits": 15,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["Culture and Gold costs of acquiring new tiles reduced by 25% in this city"],
 		"requiredTech": "Bronze Working"
-    },
-    {
+  	 },
+    	{
 		"name": "Elpmet",
 		"replaces": "Temple",
 		"uniqueTo": "Upside-Down",
@@ -52,8 +52,8 @@
 		"hurryCostModifier": 25,
 		"uniques": ["Requires a [Monument] in this city"],
 		"requiredTech": "Philosophy"
-    },
-    {
+   	},
+    	{
 		"name": "Tekram",
 		"replaces": "Market",
 		"uniqueTo": "Upside-Down",
@@ -65,8 +65,8 @@
 			"[+2 Gold] from [Oil] tiles in this city",
 			"[+2 Gold] from [Oasis] tiles in this city"],
 		"requiredTech": "Currency"
-    },
-    {
+    	},
+    	{
 		"name": "Pohskrow",
 		"replaces": "Workshop",
 		"uniqueTo": "Upside-Down",
@@ -78,8 +78,8 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Production] from [Forest] tiles in this city"],
 		"requiredTech": "Metal Casting"
-    },
-    {
+    	},
+    	{
 		"name": "Ytisrevinu",
 		"replaces": "University",
 		"uniqueTo": "Upside-Down",
@@ -88,11 +88,11 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"culture": 3,
-		"uniques": ["[+2 Science] from [Jungle] tiles in this city",
-			"Requires a [Library] in this city"],
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles in this city"],
 		"requiredTech": "Education"
-    },
-    {
+    	},
+   	{
 		"name": "Eltsac",
 		"replaces": "Castle",
 		"uniqueTo": "Upside-Down",
@@ -100,11 +100,11 @@
 		"cityHealth": 25,
 		"culture": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Gold] once [Flight] is discovered",
-			"Requires a [Walls] in this city"],
+		"requiredBuilding": "Walls",
+		"uniques": ["[+1 Gold] once [Flight] is discovered"],
 		"requiredTech": "Chivalry"
-    },
-    {
+    	},
+    	{
 		"name": "Knab",
 		"replaces": "Bank",
 		"uniqueTo": "Upside-Down",	
@@ -112,9 +112,9 @@
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
 		"hurryCostModifier": 15,
-	    "percentStatBonus": {"gold": 25},
-		"uniques": ["+5% Production for every Trade Route with a City-State in the empire",
-			"Requires a [Market] in this city"],
+	    	"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
 		"requiredTech": "Banking"
-    }
+    	}
 ]
