@@ -56,7 +56,7 @@
 		"requiredTech": "Bronze Working",
         "obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["+[50]% Strength vs [Mounted]",
+		"uniques": ["Bonus vs Mounted 50%",
 			"+10 HP when healing"],
 		"attackSound": "metalhit"
 	},
@@ -110,7 +110,7 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
-			"-[33]% Strength vs [City]"],
+			"Penalty vs City 33%"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -141,7 +141,7 @@
 		"requiredTech": "Physics",
         "obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
-		"uniques": ["+[200]% Strength vs [City]",
+		"uniques": ["Bonus vs City 200%",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack"],
 		"attackSound": "throw"
@@ -172,7 +172,7 @@
 		"cost": 45,
 		"requiredTech": "Civil Service",
         "obsoleteTech": "Gunpowder",
-		"uniques": ["+[50]% Strength vs [Mounted]",
+		"uniques": ["Bonus vs Mounted 50%",
 			"Can move immediately once bought"],
 		"upgradesTo": "Musketman",
 		"attackSound": "metalhit"
@@ -190,7 +190,7 @@
 		"requiredTech": "Chivalry",
         "obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
-		"uniques": ["+[50]% Strength vs [Mounted]",
+		"uniques": ["Bonus vs Mounted 50%",
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"Founds a new city",
@@ -225,7 +225,7 @@
 		"requiredTech": "Gunpowder",
         "obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
-		"uniques": ["+[50]% Strength vs [Mounted]",
+		"uniques": ["Bonus vs Mounted 50%",
 			"Heals [50] damage if it kills a unit",
 			"+[25]% Strength when attacking",
 			"Ignores terrain cost"],
@@ -261,7 +261,7 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
-			"-[33]% Strength vs [City]",
+			"Penalty vs City 33%",
 			"+1 Visibility Range",
 			"No movement cost to pillage"],
 		"promotions": ["Formation I"],
@@ -299,8 +299,8 @@
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
-			"-[33]% Strength vs [City]",
-			"+[33]% Strength vs [wounded units]"],
+			"Penalty vs City 33%",
+			"Bonus vs wounded units 33%"],
 		"attackSound": "horse"
 	},
 	{
@@ -316,8 +316,8 @@
 		"cost": 375,
 		"requiredTech": "Radar",
 		"uniques": ["[100]% chance to intercept air attacks",
-			"+[150]% Strength vs [Bomber]",
-			"+[33]% Strength vs [Fighter]",
+			"Bonus vs Bomber 150%",
+			"Bonus vs Fighter 33%",
 			"6 tiles in every direction always visible"],
 		"attackSound": "shot"
 	},
@@ -338,7 +338,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Traeg Raw Yrtnafin",
+		"name": "Taerg Raw Yrtnafni",
 		"unitType": "Melee",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Upside-Down",
@@ -366,12 +366,13 @@
 			"No defensive terrain bonus"]
 	},
 	{
-		"name": "Traeg Lareneg",
+		"name": "Taerg Lareneg",
 		"unitType": "Civilian",
 		"uniqueTo": "Upside-Down",
 		"replaces": "Great General",
 		"uniques": ["Can start an [8]-turn golden age",
 			"Bonus for units in 2 tile radius 15%",
+			"Great Person - [War]",
 			"Unbuildable",
 			"Heal adjacent units for an additional 15 HP per turn",
 			"Can construct [Citadel]"],
