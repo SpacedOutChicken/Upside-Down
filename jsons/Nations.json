@@ -44,7 +44,7 @@
 			"100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)", "Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled",
 			"Receive triple Gold from Barbarian encampments and pillaging Cities", "Embarked units can defend themselves",
 			"+30% Strength when fighting City-State units and cities", "+[1] Movement for all [Mounted] units",
-			"Earn [100]% of [military] opponent's [Strength] as [Culture] for kills",
+			"Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
 			"Units ignore terrain costs when moving into any tile with Hills", "Maintenance on roads & railroads reduced by [50]%", "No Maintenance costs for improvements in [Hills]",
 			"+1 Movement for all embarked units", "Units pay only 1 movement point to embark and disembark", "Melee units pay no movement cost to pillage"],
 		"cities": ["Eht Latipac","Nolybab","Snehta","Gnijieb","Sebeht","Nodnol","Sirap","Wocsom","Emor","Accem","Notgnihsaw","Otoyk","Ihled","Nilreb","Lubnatsi","Luoes","Agadnoono","Silopesrep","Ululonoh","Iahtohkus","Dirdam","Oag","Murokarak","Naltithconet","Oczuc","Negahnepoc","Mlohkcots","Nilam","Ecnerolf","Oir ed Orienaj","Prewtna","Nilbud","Eryt","Ru","Aoneg","Ecinev","Slessurb","Lubak","Nodis","Ytamla","Hgrubnide","Eropagnis","Rabiznaz","Yendys","Epac Nwot","Udnamhtak","Ionah","Cebeuq Ytic","Iknisleh","Alauk Rupmul","Alinam","Asahl","Revuocnav","Ognok-Aznab'M","Uhsidagom"]
