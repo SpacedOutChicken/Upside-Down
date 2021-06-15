@@ -5,7 +5,7 @@
 		"uniqueTo": "Upside-Down",
 		"hurryCostModifier": 25,
 		"gold": 2,
-		"uniques": ["[+1 Science] Per [2] Population in this city"],
+		"uniques": ["[+1 Science] Per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	},
 	{
