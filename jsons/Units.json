@@ -308,7 +308,7 @@
 		"unitType": "Fighter",
 		"replaces": "Fighter",
 		"uniqueTo": "Upside-Down",
-		//"upgradesTo": "Jet Fighter",
+		"upgradesTo": "Jet Fighter",
 		"movement": 1,
 		"strength": 45,
 		"rangedStrength": 45,
