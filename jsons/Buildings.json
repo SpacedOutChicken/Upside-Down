@@ -44,15 +44,15 @@
 		"requiredTech": "Bronze Working"
   	},
     {
-		"name": "Elpmet",
-		"replaces": "Temple",
+		"name": "Retaehtihpma",
+		"replaces": "Amphitheater",
 		"uniqueTo": "Upside-Down",
 		"culture": 4,
 		"happiness": 2,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 25,
 		"uniques": ["Requires a [Monument] in this city"],
-		"requiredTech": "Philosophy"
+		"requiredTech": "Drama and Poetry"
    	},
     {
 		"name": "Tekram",

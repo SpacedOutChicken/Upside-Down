@@ -326,7 +326,7 @@
 		"unitType": "Bomber",
 		"replaces": "Bomber",
 		"uniqueTo": "Upside-Down",
-		//"upgradesTo": "Stealth Bomber",
+		"upgradesTo": "Stealth Bomber",
 		"movement": 1,
 		"strength": 70,
 		"rangedStrength": 70,
