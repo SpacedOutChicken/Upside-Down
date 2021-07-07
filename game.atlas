@@ -27,49 +27,49 @@ BuildingIcons/Pohskrow
   index: -1
 BuildingIcons/Retaehtihpma
   rotate: false
-  xy: 544, 292
+  xy: 652, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Retaw Llim
   rotate: false
-  xy: 652, 400
+  xy: 436, 77
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Skcarrab
   rotate: false
-  xy: 652, 292
+  xy: 760, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sllaw
   rotate: false
-  xy: 760, 400
+  xy: 652, 184
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tekram
   rotate: false
-  xy: 868, 400
+  xy: 760, 184
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Yrarbil
   rotate: false
-  xy: 976, 292
+  xy: 1084, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ytisrevinu
   rotate: false
-  xy: 976, 184
+  xy: 1084, 292
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -88,37 +88,44 @@ ImprovementIcons/Iaom
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Upside-Down
+ImprovementIcons/Redlop
   rotate: false
-  xy: 868, 184
+  xy: 328, 76
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Hill+Ecarret mraf
+NationIcons/Upside-Down
   rotate: false
-  xy: 652, 148
-  size: 32, 28
-  orig: 32, 28
+  xy: 976, 292
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Iaom
-  rotate: false
-  xy: 1084, 363
-  size: 32, 29
-  orig: 32, 29
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Etagirf
+TileSets/FantasyHex/Tiles/Ecarret mraf
   rotate: false
   xy: 4, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Iaom
+  rotate: false
+  xy: 1192, 471
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Etagirf
+  rotate: false
+  xy: 652, 148
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Knat
   rotate: false
-  xy: 1192, 472
+  xy: 1084, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -153,28 +160,28 @@ TileSets/FantasyHex/Units/Namesroh
   index: -1
 TileSets/FantasyHex/Units/Namraeps
   rotate: false
-  xy: 1084, 327
+  xy: 1192, 435
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Namsdrows
   rotate: false
-  xy: 1124, 364
+  xy: 1232, 472
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Namsdrowsgnol
   rotate: false
-  xy: 1192, 436
+  xy: 1084, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Namteksum
   rotate: false
-  xy: 1232, 472
+  xy: 1124, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -200,7 +207,7 @@ TileSets/FantasyHex/Units/Rehcra
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Riorraw
+TileSets/FantasyHex/Units/Roirraw
   rotate: false
   xy: 732, 148
   size: 32, 28
@@ -209,49 +216,49 @@ TileSets/FantasyHex/Units/Riorraw
   index: -1
 TileSets/FantasyHex/Units/Taerg Lareneg
   rotate: false
-  xy: 1084, 288
+  xy: 1192, 396
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Taerg Raw Yrtnafni
   rotate: false
-  xy: 1124, 328
+  xy: 1232, 436
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tehcubert
   rotate: false
-  xy: 1192, 400
+  xy: 1272, 472
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Thgink
   rotate: false
-  xy: 1164, 364
+  xy: 1084, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tlupatac
   rotate: false
-  xy: 1232, 436
+  xy: 1124, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Toirahc Rehcra
   rotate: false
-  xy: 1272, 472
+  xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Yrlavac
   rotate: false
-  xy: 84, 4
+  xy: 124, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -349,28 +356,28 @@ UnitIcons/Recnal
   index: -1
 UnitIcons/Reetavirp
   rotate: false
-  xy: 328, 76
+  xy: 436, 185
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rehcra
   rotate: false
-  xy: 436, 185
+  xy: 544, 292
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rethgif
   rotate: false
-  xy: 436, 77
+  xy: 544, 184
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Roirraw
   rotate: false
-  xy: 544, 184
+  xy: 652, 292
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -384,42 +391,42 @@ UnitIcons/Taerg Lareneg
   index: -1
 UnitIcons/Taerg Raw Yrtnafni
   rotate: false
-  xy: 652, 184
+  xy: 760, 292
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tehcubert
   rotate: false
-  xy: 760, 292
+  xy: 868, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Thgink
   rotate: false
-  xy: 760, 184
+  xy: 868, 292
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tlupatac
   rotate: false
-  xy: 868, 292
+  xy: 976, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Toirahc Rehcra
   rotate: false
-  xy: 976, 400
+  xy: 868, 184
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Yrlavac
   rotate: false
-  xy: 1084, 400
+  xy: 976, 184
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
