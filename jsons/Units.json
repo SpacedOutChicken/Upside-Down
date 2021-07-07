@@ -43,6 +43,7 @@
         "obsoleteTech": "Chivalry",
 		"upgradesTo": "Knight",
 		"uniques": ["No defensive terrain bonus"],
+		"promotions": ["Accuracy I"],
 		"attackSound": "arrow"
 	},
 	{
@@ -57,7 +58,9 @@
         "obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["+[50]% Strength vs [Mounted]",
-			"+10 HP when healing"],
+			"+[10] HP when healing",
+			"+[300]% Strength vs [City]"],
+		"promotions":  ["Cover I"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -158,8 +161,7 @@
         "obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
 		"requiredResource": "Iron",
-		"uniques": ["Amphibious"],
-        "promotions": ["Shock I", "Great Generals II"],
+        "promotions": ["Shock I", "Great Generals II","Amphibious"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -210,8 +212,8 @@
 		"requiredTech": "Astronomy",
         "obsoleteTech": "Combustion",
 		"upgradesTo": "Ironclad",
-		"uniques": ["+1 Visibility Range",
-			"May withdraw before melee ([50]%)"],
+		"uniques": ["[+1] Visibility Range",
+			"May withdraw before melee ([80]%)"],
 		"hurryCostModifier": 30
 	},
 	{
@@ -231,6 +233,19 @@
 			"Ignores terrain cost"],
 		"promotions": ["Drill I"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Reetavirp",
+		"unitType": "WaterMelee",
+		"replaces": "Privateer",
+		"uniqueTo": "Upside-Down",
+		"movement": 5,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply"],
+		"uniques": ["May capture killed [Water] units"]
 	},
 	{
 		"name": "Etagirf",
