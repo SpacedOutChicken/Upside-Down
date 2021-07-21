@@ -58,7 +58,7 @@
         "obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["+[50]% Strength vs [Mounted]",
-			"+[10] HP when healing",
+			"[-10] HP when healing",
 			"+[300]% Strength vs [City]"],
 		"promotions":  ["Cover I"],
 		"attackSound": "metalhit"
@@ -197,7 +197,7 @@
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"Founds a new city",
-			"+2 Visibility Range",
+			"[+2] Visibility Range",
 			"Defense bonus when embarked"],
         "promotions": ["Great Generals I", "Quick Study"],
 		"attackSound": "arrow"
@@ -278,8 +278,10 @@
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"-[33]% Strength vs [City]",
-			"+1 Visibility Range",
-			"No movement cost to pillage"],
+			"[+1] Visibility Range",
+			"No movement cost to pillage",
+			"Transfer Movement to [Great General]",
+			"[+15]% Strength when stacked with [Great General]"],
 		"promotions": ["Formation I"],
 		"upgradesTo": "Anti-Tank Gun",
 		"attackSound": "horse"

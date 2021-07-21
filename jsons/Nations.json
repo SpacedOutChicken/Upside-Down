@@ -48,7 +48,8 @@
 			"Units ignore terrain costs when moving into any tile with Hills", "Maintenance on roads & railroads reduced by [50]%", "No Maintenance costs for improvements in [Hill] tiles",
 			"+1 Movement for all embarked units", "Units pay only 1 movement point to disembark", "Melee units pay no movement cost to pillage",
 			"[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "Starts with [Animal Husbandry]",
-			"Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
+			"Retain [50]% of the happiness from a luxury after the last copy has been traded away",
+			"Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
 		"cities": ["Eht Latipac","Nolybab","Snehta","Gnijieb","Sebeht","Nodnol","Sirap","Wocsom","Emor","Accem","Notgnihsaw","Otoyk","Ihled","Nilreb","Lubnatsi","Luoes","Agadnoono","Silopesrep","Ululonoh","Iahtohkus","Dirdam","Oag","Murokarak","Naltithconet","Oczuc","Negahnepoc","Mlohkcots","Truoc S'Alitta","Madretsma","Nilam","Ecnerolf","Oir ed Orienaj","Prewtna","Nilbud","Eryt","Ru","Aoneg","Ecinev","Slessurb","Lubak","Nodis","Ytamla","Hgrubnide","Eropagnis","Rabiznaz","Yendys","Epac Nwot","Udnamhtak","Ionah","Cebeuq Ytic","Iknisleh","Alauk Rupmul","Alinam","Asahl","Revuocnav","Ognok-Aznab'M","Uhsidagom"]
 	}
 ]
