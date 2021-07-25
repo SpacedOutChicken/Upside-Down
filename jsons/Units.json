@@ -58,7 +58,7 @@
         "obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["+[50]% Strength vs [Mounted]",
-			"[-10] HP when healing",
+			"[+10] HP when healing",
 			"+[300]% Strength vs [City]"],
 		"promotions":  ["Cover I"],
 		"attackSound": "metalhit"
