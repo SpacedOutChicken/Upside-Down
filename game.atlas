@@ -116,6 +116,13 @@ TileSets/FantasyHex/Tiles/Iaom
   orig: 32, 29
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Redlop
+  rotate: false
+  xy: 692, 112
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Etagirf
   rotate: false
   xy: 652, 148
@@ -202,63 +209,63 @@ TileSets/FantasyHex/Units/Recnal
   index: -1
 TileSets/FantasyHex/Units/Rehcra
   rotate: false
-  xy: 692, 112
+  xy: 732, 148
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Roirraw
   rotate: false
-  xy: 732, 148
+  xy: 1192, 399
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Taerg Lareneg
   rotate: false
-  xy: 1192, 396
+  xy: 1232, 433
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Taerg Raw Yrtnafni
   rotate: false
-  xy: 1232, 436
+  xy: 1272, 472
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tehcubert
   rotate: false
-  xy: 1272, 472
+  xy: 1084, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Thgink
   rotate: false
-  xy: 1084, 184
+  xy: 1124, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tlupatac
   rotate: false
-  xy: 1124, 220
+  xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Toirahc Rehcra
   rotate: false
-  xy: 84, 4
+  xy: 124, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Yrlavac
   rotate: false
-  xy: 124, 40
+  xy: 732, 112
   size: 32, 28
   orig: 32, 28
   offset: 0, 0

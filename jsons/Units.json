@@ -258,7 +258,7 @@
 		"rangedStrength": 35,
 		"cost": 185,
 		"requiredResource": "Iron",
-		"uniques": ["+1 Visibility Range"],
+		"uniques": ["[+1] Visibility Range"],
 		"requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
@@ -301,6 +301,7 @@
 			"+[25]% combat bonus in [Tundra]",
 			"+[25]% combat bonus in [Hill]",
 			"Double movement in Snow, Tundra and Hills"],
+		"promotions": ["March"],
 		"attackSound": "shot"
 	},
 	{
