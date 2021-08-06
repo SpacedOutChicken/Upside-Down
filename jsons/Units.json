@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Roirraw",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"uniqueTo": "Upside-Down",
 		"replaces": "Warrior",
 		"movement": 2,
@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "Rehcra",
-		"unitType": "Ranged",
+		"unitType": "Archery",
 		"uniqueTo": "Upside-Down",
 		"replaces": "Archer",
 		"movement": 2,
@@ -32,7 +32,7 @@
 	},
 	{
 		"name": "Toirahc Rehcra",
-		"unitType": "Ranged",
+		"unitType": "Archery",
 		"uniqueTo": "Upside-Down",
 		"replaces": "Chariot Archer",
 		"movement": 5,
@@ -50,7 +50,7 @@
 		"name": "Namraeps",
 		"replaces": "Spearman",
 		"uniqueTo": "Upside-Down",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"movement": 2,
 		"strength": 13,
 		"cost": 56,
@@ -84,7 +84,7 @@
 	},
 	{
 		"name": "Namsdrows",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"uniqueTo": "Upside-Down",
 		"replaces": "Swordsman",
 		"movement": 2,
@@ -120,7 +120,7 @@
 	},
 	{
 		"name": "Namwobssorc",
-		"unitType": "Ranged",
+		"unitType": "Archery",
 		"uniqueTo": "Upside-Down",
 		"movement": 2,
 		"strength": 13,
@@ -154,7 +154,7 @@
 		"name": "Namsdrowsgnol",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Upside-Down",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"movement": 3,
 		"strength": 21,
 		"cost": 120,
@@ -169,7 +169,7 @@
 		"name": "Namekip",
 		"replaces": "Pikeman",
 		"uniqueTo": "Upside-Down",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"movement": 2,
 		"strength": 16,
 		"cost": 45,
@@ -184,7 +184,7 @@
 		"name": "Thgink",
 		"replaces": "Knight",
 		"uniqueTo": "Upside-Down",
-		"unitType": "Ranged",
+		"unitType": "Archery",
 		"range": 2,
 		"movement": 5,
 		"strength": 25,
@@ -204,7 +204,7 @@
 	},
 	{
 		"name": "Levarac",
-		"unitType": "WaterMelee",
+		"unitType": "Melee Water",
 		"replaces": "Caravel",
 		"uniqueTo": "Upside-Down",
 		"movement": 4,
@@ -219,7 +219,7 @@
 	},
 	{
 		"name": "Namteksum",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"replaces": "Musketman",
 		"uniqueTo": "Upside-Down",
 		"movement": 2,
@@ -237,7 +237,7 @@
 	},
 	{
 		"name": "Reetavirp",
-		"unitType": "WaterMelee",
+		"unitType": "Melee Water",
 		"replaces": "Privateer",
 		"uniqueTo": "Upside-Down",
 		"movement": 5,
@@ -250,7 +250,7 @@
 	},
 	{
 		"name": "Etagirf",
-		"unitType": "WaterRanged",
+		"unitType": "Ranged Water",
 		"replaces": "Frigate",
 		"uniqueTo": "Upside-Down",
 		"movement": 5,
@@ -288,7 +288,7 @@
 	},
 	{
 		"name": "Namelfir",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo": "Upside-Down",
 		"movement": 2,
@@ -358,7 +358,7 @@
 	},
 	{
 		"name": "Taerg Raw Yrtnafni",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Upside-Down",
 		"movement": 2,
@@ -372,7 +372,7 @@
 	},
 	{
 		"name": "Knat",
-		"unitType": "Armor",
+		"unitType": "Armored",
 		"uniqueTo": "Upside-Down",
 		"replaces": "Tank",
 		"movement": 6,
@@ -393,7 +393,7 @@
 			"Bonus for units in 2 tile radius 15%",
 			"Great Person - [War]",
 			"Unbuildable",
-			"Heal adjacent units for an additional 15 HP per turn",
+			"All adjacent units heal [15] HP when healing",
 			"Can construct [Citadel]"],
 		"movement": 5
 	}
