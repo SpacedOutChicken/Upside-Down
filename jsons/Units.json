@@ -9,8 +9,8 @@
 		"cost": 20,
         "obsoleteTech": "Metal Casting",
 		"promotions": ["Haka War Dance","Woodsman"],
-		"uniques": ["+[33]% combat bonus in [Forest]",
-			"+[33]% combat bonus in [Jungle]",
+		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>",
+			"[+33]% Strength <when fighting in [Jungle] tiles>",
 			"Heals [25] damage if it kills a unit"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
@@ -23,11 +23,27 @@
 		"movement": 2,
 		"strength": 7,
 		"rangedStrength": 9,
-		"cost": 40,
-		"requiredTech": "Archery",
+		"cost": 36,
+		"requiredTech": "Agriculture",
         "obsoleteTech": "Machinery",
 		"upgradesTo": "Composite Bowman",
 		"promotions": ["Slinger Withdraw"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Emerirt",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Upside-Down",
+		"replaces": "Trireme",
+		"movement": 4,
+		"strength": 13,
+		"rangedStrength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles",
+			"[+50]% Strength <vs [Water] units>"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
 		"attackSound": "arrow"
 	},
 	{
@@ -57,10 +73,11 @@
 		"requiredTech": "Bronze Working",
         "obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["+[50]% Strength vs [Mounted]",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 			"[+10] HP when healing",
-			"+[300]% Strength vs [City]"],
-		"promotions":  ["Cover I"],
+			"[+300]% Strength <vs cities> <when attacking>",
+			"Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"promotions":  ["Cover I", "Pictish Courage"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -75,10 +92,10 @@
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
-		"uniques": ["+[200]% Strength vs [City]",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
-			"Limited Visibility"],
+			"[-1] Sight"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	},
@@ -95,8 +112,8 @@
 		"upgradesTo": "Longswordsman",
 		"uniques": ["Can build [Road] improvements on tiles",
 			"Can build [Fort] improvements on tiles",
-			"+[33]% combat bonus in [Forest]",
-			"+[33]% combat bonus in [Jungle]"],
+			"[+33]% Strength <when fighting in [Forest] tiles>",
+			"[+33]% Strength <when fighting in [Jungle] tiles>"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -106,15 +123,16 @@
 		"uniqueTo": "Upside-Down",
 		"replaces": "Horseman",
 		"movement": 5,
-		"strength": 14,
+		"strength": 15,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
-        "obsoleteTech": "Metallurgy",
+        "obsoleteTech": "Chivalry",
 		"upgradesTo": "Knight",
-		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
-			"-[33]% Strength vs [City]"],
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"[-25]% Strength <vs cities>"],
+		"promotions": ["Great Generals I"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -175,7 +193,7 @@
 		"cost": 45,
 		"requiredTech": "Civil Service",
         "obsoleteTech": "Gunpowder",
-		"uniques": ["+[50]% Strength vs [Mounted]",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 			"Can move immediately once bought"],
 		"upgradesTo": "Musketman",
 		"attackSound": "metalhit"
@@ -193,11 +211,11 @@
 		"requiredTech": "Chivalry",
         "obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
-		"uniques": ["+[50]% Strength vs [Mounted]",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"Founds a new city",
-			"[+2] Visibility Range",
+			"[+2] Sight",
 			"Defense bonus when embarked"],
         "promotions": ["Great Generals I", "Quick Study"],
 		"attackSound": "arrow"
@@ -213,9 +231,10 @@
 		"requiredTech": "Astronomy",
         "obsoleteTech": "Combustion",
 		"upgradesTo": "Ironclad",
-		"uniques": ["[+1] Visibility Range",
+		"uniques": ["[+1] Sight",
 			"May withdraw before melee ([80]%)"],
-		"hurryCostModifier": 30
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Namteksum",
@@ -228,9 +247,9 @@
 		"requiredTech": "Gunpowder",
         "obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
-		"uniques": ["+[50]% Strength vs [Mounted]",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 			"Heals [50] damage if it kills a unit",
-			"+[25]% Strength when attacking",
+			"[+25]% Strength <when attacking>",
 			"Ignores terrain cost"],
 		"promotions": ["Drill I"],
 		"attackSound": "shot"
@@ -246,7 +265,8 @@
 		"requiredTech": "Navigation",
 		"upgradesTo": "Destroyer",
 		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply"],
-		"uniques": ["May capture killed [Water] units"]
+		"uniques": ["May capture killed [Water] units"],
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Etagirf",
@@ -258,7 +278,7 @@
 		"rangedStrength": 35,
 		"cost": 185,
 		"requiredResource": "Iron",
-		"uniques": ["[+1] Visibility Range"],
+		"uniques": ["[+1] Sight"],
 		"requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
@@ -277,11 +297,10 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
-			"-[33]% Strength vs [City]",
-			"[+1] Visibility Range",
-			"No movement cost to pillage",
+			"[-33]% Strength <vs cities>",
 			"Transfer Movement to [Great General]",
-			"[+15]% Strength when stacked with [Great General]"],
+			"[+15]% Strength when stacked with [Great General]",
+			"No movement cost to pillage"],
 		"promotions": ["Formation I"],
 		"upgradesTo": "Anti-Tank Gun",
 		"attackSound": "horse"
@@ -293,15 +312,17 @@
 		"uniqueTo": "Upside-Down",
 		"movement": 2,
 		"strength": 34,
-		"cost": 225,
+		"cost": 200,
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"uniques": ["+[25]% combat bonus in [Snow]",
-			"+[25]% combat bonus in [Tundra]",
-			"+[25]% combat bonus in [Hill]",
-			"Double movement in Snow, Tundra and Hills"],
-		"promotions": ["March"],
+		"uniques": ["[+25]% Strength <when fighting in [Snow] tiles>",
+			"[+25]% Strength <when fighting in [Tundra] tiles>",
+			"[+25]% Strength <when fighting in [Hill] tiles>",
+			"Double movement in [Snow]",
+			"Double movement in [Tundra]",
+			"Double movement in [Hill]"],
+		"promotions": ["Drill I","Home Sweet Home","March"],
 		"attackSound": "shot"
 	},
 	{
@@ -317,9 +338,10 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking",
-			"No defensive terrain bonus",
-			"-[33]% Strength vs [City]",
-			"+[50]% Strength vs [wounded units]"],
+			"No defensive terrain bonus","[-33]% Strength <vs cities>" ,
+			"[+1] Sight",
+			"[+50]% to Flank Attack bonuses",
+			"[+50]% Strength <vs [Wounded] units>"],
 		"attackSound": "horse"
 	},
 	{
@@ -335,10 +357,10 @@
 		"cost": 375,
 		"requiredTech": "Radar",
 		"uniques": ["[100]% chance to intercept air attacks",
-			"+[150]% Strength vs [Bomber]",
-			"+[33]% Strength vs [Fighter]",
-			"6 tiles in every direction always visible"],
-		"attackSound": "shot"
+			"[+150]% Strength <vs [Bomber] units>",
+			"[+150]% Strength <vs [Helicopter] units>",
+			"[+33]% Strength <vs [Fighter] units>"],
+		"attackSound": "machinegun"
 	},
 	{
 		"name": "Rebmob",
@@ -354,7 +376,7 @@
 		"requiredTech": "Radar",
 		"requiredResource": "Oil",
 		"promotions": ["Evasion", "Siege I"],
-		"attackSound": "shot"
+		"attackSound": "bombing"
 	},
 	{
 		"name": "Taerg Raw Yrtnafni",
@@ -367,7 +389,7 @@
 		"requiredTech": "Replaceable Parts",
 		"obsoleteTech": "Plastics",
 		"upgradesTo": "Infantry",
-		"uniques": ["+[20]% combat bonus in [Foreign Land]"],
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "shot"
 	},
 	{
@@ -382,7 +404,8 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
 		"uniques": ["Can move after attacking",
-			"No defensive terrain bonus"]
+			"No defensive terrain bonus"],
+		"attackSound": "tankshot"
 	},
 	{
 		"name": "Taerg Lareneg",
@@ -391,10 +414,12 @@
 		"replaces": "Great General",
 		"uniques": ["Can start an [8]-turn golden age",
 			"Bonus for units in 2 tile radius 15%",
+			"All adjacent units heal [+15] HP when healing",
+			"[+15] HP when healing",
+			"Can construct [Citadel]",
 			"Great Person - [War]",
 			"Unbuildable",
-			"All adjacent units heal [15] HP when healing",
-			"Can construct [Citadel]"],
+			"Uncapturable"],
 		"movement": 5
 	}
 ]

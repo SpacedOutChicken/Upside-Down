@@ -1,5 +1,27 @@
 [
    	{
+		"name": "Tnemunom",
+		"replaces": "Monument",
+		"uniqueTo": "Upside-Down",
+		"culture": 2,
+		"faith": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Enirhs",
+		"replaces": "Shrine",
+		"uniqueTo": "Upside-Down",
+		"faith": 2,
+		"science": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
     	"name": "Yrarbil",
 		"replaces": "Library",
 		"uniqueTo": "Upside-Down",
@@ -30,29 +52,32 @@
 		"cityStrength": 6,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
-		"requiredTech": "Masonry"
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
 	},
     {
 		"name": "Skcarrab",
 	   	"replaces": "Barracks",
 		"uniqueTo": "Upside-Down",
-		"xpForNewUnits": 15,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["-[25]% Culture cost of acquiring tiles [in this city]",
-			"-[25]% Gold cost of acquiring tiles [in this city]"],
+			"-[25]% Gold cost of acquiring tiles [in this city]",
+			"New [Military] units start with [15] Experience [in this city]",
+			"Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
   	},
     {
-		"name": "Retaehtihpma",
-		"replaces": "Amphitheater",
+		"name": "Elpmet",
+		"replaces": "Temple",
 		"uniqueTo": "Upside-Down",
-		"culture": 4,
-		"happiness": 2,
-		"specialistSlots": {"Artist": 1},
+		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"uniques": ["Requires a [Monument] in this city"],
-		"requiredTech": "Drama and Poetry"
+		"culture": 2,
+		"faith": 2,
+		"happiness": 2,
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Philosophy"
    	},
     {
 		"name": "Tekram",
@@ -102,9 +127,23 @@
 		"culture": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Gold] once [Flight] is discovered"],
+		"uniques": ["[+1 Gold] once [Flight] is discovered",
+			"Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
     },
+	{
+		"name": "Arepo Esuoh",
+		"replaces": "Opera House",
+		"uniqueTo": "Upside-Down",
+		"culture": 4,
+		"happiness": 3,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured"]
+	},
     {
 		"name": "Knab",
 		"replaces": "Bank",
@@ -117,5 +156,18 @@
 		"requiredBuilding": "Market",
 		"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
 		"requiredTech": "Banking"
-    }
+    },
+	{
+		"name": "Llimdniw",
+		"replaces": "Windmill",
+		"uniqueTo": "Upside-Down",
+		"production": 2,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["[+25]% great person generation [in this city]",
+			"+[10]% Production when constructing [Buildings] [in this city]"],
+		"requiredTech": "Economics"
+	}
 ]
