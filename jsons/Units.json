@@ -11,7 +11,8 @@
 		"promotions": ["Haka War Dance","Woodsman"],
 		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>",
 			"[+33]% Strength <when fighting in [Jungle] tiles>",
-			"Heals [25] damage if it kills a unit"],
+			"Heals [25] damage if it kills a unit",
+			"May upgrade to [Spearman] through ruins-like effects"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},

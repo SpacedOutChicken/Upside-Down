@@ -77,7 +77,8 @@
 		"faith": 2,
 		"happiness": 2,
 		"requiredBuilding": "Shrine",
-		"requiredTech": "Philosophy"
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
    	},
     {
 		"name": "Tekram",
