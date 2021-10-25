@@ -25,7 +25,7 @@
 		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster",
 			"City-State Influence degrades [50]% slower", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
-			"+[20]% Production when constructing [Wonders]",
+			"[+20]% Production when constructing [All] wonders [in all cities]",
 			"[+2] Movement <for [Water] units>",
 			"[+2 Culture] per turn from cities before [Steam Power]",
 			"[+1 Production] from every [Strategic Resource]", "Double quantity of [Horses] produced", "Double quantity of [Iron] produced", "Double quantity of [Uranium] produced",
