@@ -164,7 +164,7 @@
 		"requiredTech": "Physics",
         "obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
-		"uniques": ["+[200]% Strength vs [City]",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack"],
 		"attackSound": "throw"
@@ -215,7 +215,7 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 			"Can move after attacking",
 			"No defensive terrain bonus",
-			"Founds a new city",
+			"Founds a new city <on foreign continents>",
 			"[+2] Sight",
 			"Defense bonus when embarked"],
         "promotions": ["Great Generals I", "Quick Study"],

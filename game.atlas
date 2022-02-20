@@ -132,168 +132,672 @@ NationIcons/Upside-Down
   index: -1
 TileSets/FantasyHex/Tiles/Ecarret mraf
   rotate: false
-  xy: 4, 40
+  xy: 1340, 436
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Iaom
   rotate: false
-  xy: 1192, 363
+  xy: 1312, 324
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Redlop
   rotate: false
-  xy: 1016, 112
+  xy: 1352, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Etagirf
+TileSets/FantasyHex/Units/Anti-Aircraft Gun-Upside Down
+  rotate: false
+  xy: 4, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Tank Gun-Upside Down
   rotate: false
   xy: 976, 148
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Knat
+TileSets/FantasyHex/Units/Archaeologist-Upside Down
+  rotate: false
+  xy: 1192, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Archer-Upside Down
   rotate: false
   xy: 1300, 472
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Levarac
+TileSets/FantasyHex/Units/Rehcra
+  rotate: false
+  xy: 1300, 472
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Artillery-Upside Down
   rotate: false
   xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Namekip
+TileSets/FantasyHex/Units/Battleship-Upside Down
   rotate: false
   xy: 44, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Namelfir
+TileSets/FantasyHex/Units/Bazooka-Upside Down
   rotate: false
   xy: 976, 112
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Namesroh
+TileSets/FantasyHex/Units/Cannon-Upside Down
   rotate: false
   xy: 1016, 148
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Namraeps
+TileSets/FantasyHex/Units/Caravan-Upside Down
   rotate: false
-  xy: 1192, 327
-  size: 32, 28
-  orig: 32, 28
+  xy: 1192, 322
+  size: 32, 34
+  orig: 32, 34
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Namsdrows
+TileSets/FantasyHex/Units/Caravel-Upside Down
   rotate: false
   xy: 1232, 364
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Namsdrowsgnol
+TileSets/FantasyHex/Units/Cargo Ship-Upside Down
   rotate: false
   xy: 1300, 436
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Namteksum
+TileSets/FantasyHex/Units/Carolean-Upside Down
   rotate: false
   xy: 1340, 472
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Namwobssorc
+TileSets/FantasyHex/Units/Carrier-Upside Down
   rotate: false
   xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Recnal
+TileSets/FantasyHex/Units/Catapult-Upside Down
   rotate: false
   xy: 84, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Rehcra
+TileSets/FantasyHex/Units/Cavalry-Upside Down
   rotate: false
-  xy: 1056, 148
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Roirraw
-  rotate: false
-  xy: 1192, 291
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Taerg Lareneg
-  rotate: false
-  xy: 1232, 325
-  size: 32, 31
-  orig: 32, 31
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Taerg Raw Yrtnafni
-  rotate: false
-  xy: 1300, 400
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Tehcubert
-  rotate: false
-  xy: 1272, 364
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Thgink
-  rotate: false
-  xy: 1340, 436
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Tlupatac
-  rotate: false
-  xy: 1380, 472
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Toirahc Rehcra
-  rotate: false
-  xy: 84, 4
+  xy: 1016, 112
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Yrlavac
   rotate: false
+  xy: 1016, 112
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Chariot Archer-Upside Down
+  rotate: false
+  xy: 1056, 148
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Toirahc Rehcra
+  rotate: false
+  xy: 1056, 148
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/CivilianLandUnit-Upside Down
+  rotate: false
+  xy: 1192, 286
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Composite Bowman-Upside Down
+  rotate: false
+  xy: 1232, 328
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crossbowman-Upside Down
+  rotate: false
+  xy: 1300, 400
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Namwobssorc
+  rotate: false
+  xy: 1300, 400
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Destroyer-Upside Down
+  rotate: false
+  xy: 1272, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Etagirf
+  rotate: false
+  xy: 1380, 472
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Frigate-Upside Down
+  rotate: false
+  xy: 84, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Galleass-Upside Down
+  rotate: false
   xy: 124, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gatling Gun-Upside Down
+  rotate: false
+  xy: 1056, 112
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot-Upside Down
+  rotate: false
+  xy: 1096, 145
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Admiral-Upside Down
+  rotate: false
+  xy: 1192, 247
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Artist-Upside Down
+  rotate: false
+  xy: 1232, 292
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Engineer-Upside Down
+  rotate: false
+  xy: 1272, 328
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Galleass-Upside Down
+  rotate: false
+  xy: 1340, 400
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great General-Upside Down
+  rotate: false
+  xy: 1312, 361
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Taerg Lareneg
+  rotate: false
+  xy: 1312, 361
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Merchant-Upside Down
+  rotate: false
+  xy: 1380, 436
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Musician-Upside Down
+  rotate: false
+  xy: 1420, 472
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Prophet-Upside Down
+  rotate: false
+  xy: 124, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Scientist-Upside Down
+  rotate: false
+  xy: 164, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great War Infantry-Upside Down
+  rotate: false
+  xy: 1136, 148
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Taerg Raw Yrtnafni
+  rotate: false
+  xy: 1136, 148
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Writer-Upside Down
+  rotate: false
+  xy: 1192, 211
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship-Upside Down
+  rotate: false
+  xy: 1232, 256
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Horseman-Upside Down
+  rotate: false
+  xy: 1272, 292
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Namesroh
+  rotate: false
+  xy: 1272, 292
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-Upside Down
+  rotate: false
+  xy: 1380, 400
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Inquisitor-Upside Down
+  rotate: false
+  xy: 1352, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ironclad-Upside Down
+  rotate: false
+  xy: 1420, 436
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knat
+  rotate: false
+  xy: 1460, 472
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-Upside Down
+  rotate: false
+  xy: 164, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Thgink
+  rotate: false
+  xy: 164, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kris Swordsman-Upside Down
+  rotate: false
+  xy: 204, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lancer-Upside Down
+  rotate: false
+  xy: 1232, 220
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Recnal
+  rotate: false
+  xy: 1232, 220
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/LandUnit-Upside Down
+  rotate: false
+  xy: 1272, 256
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Landship-Upside Down
+  rotate: false
+  xy: 1312, 288
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Levarac
+  rotate: false
+  xy: 1352, 328
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Longswordsman-Upside Down
+  rotate: false
+  xy: 1420, 400
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Namsdrowsgnol
+  rotate: false
+  xy: 1420, 400
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Machine Gun-Upside Down
+  rotate: false
+  xy: 1392, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Marine-Upside Down
+  rotate: false
+  xy: 1460, 436
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mechanized Infantry-Upside Down
+  rotate: false
+  xy: 1500, 472
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser-Upside Down
+  rotate: false
+  xy: 204, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missionary-Upside Down
+  rotate: false
+  xy: 244, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mobile SAM-Upside Down
+  rotate: false
+  xy: 1272, 220
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Modern Armor-Upside Down
+  rotate: false
+  xy: 1312, 252
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Musketman-Upside Down
+  rotate: false
+  xy: 1352, 292
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Namteksum
+  rotate: false
+  xy: 1352, 292
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Namekip
+  rotate: false
+  xy: 1392, 328
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pikeman-Upside Down
+  rotate: false
+  xy: 1392, 328
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Namelfir
+  rotate: false
+  xy: 1460, 400
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rifleman-Upside Down
+  rotate: false
+  xy: 1460, 400
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Namraeps
+  rotate: false
+  xy: 1432, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-Upside Down
+  rotate: false
+  xy: 1432, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Namsdrows
+  rotate: false
+  xy: 1500, 436
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-Upside Down
+  rotate: false
+  xy: 1500, 436
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine-Upside Down
+  rotate: false
+  xy: 1540, 472
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Paratrooper-Upside Down
+  rotate: false
+  xy: 244, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Privateer-Upside Down
+  rotate: false
+  xy: 284, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Artillery-Upside Down
+  rotate: false
+  xy: 1392, 292
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Roirraw
+  rotate: false
+  xy: 1432, 328
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Upside Down
+  rotate: false
+  xy: 1432, 328
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout-Upside Down
+  rotate: false
+  xy: 1500, 400
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-Upside Down
+  rotate: false
+  xy: 1472, 363
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Submarine-Upside Down
+  rotate: false
+  xy: 1540, 438
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tank-Upside Down
+  rotate: false
+  xy: 1580, 472
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tehcubert
+  rotate: false
+  xy: 284, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tlupatac
+  rotate: false
+  xy: 324, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trebuchet-Upside Down
+  rotate: false
+  xy: 1392, 256
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trireme-Upside Down
+  rotate: false
+  xy: 1432, 292
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/WaterUnit-Upside Down
+  rotate: false
+  xy: 1472, 329
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Work Boats-Upside Down
+  rotate: false
+  xy: 1540, 402
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Upside Down
+  rotate: false
+  xy: 1580, 436
   size: 32, 28
   orig: 32, 28
   offset: 0, 0

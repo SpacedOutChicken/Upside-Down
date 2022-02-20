@@ -61,7 +61,7 @@
 		"uniqueTo": "Upside-Down",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["-[25]% Culture cost of acquiring tiles [in this city]",
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]",
 			"-[25]% Gold cost of acquiring tiles [in this city]",
 			"New [Military] units start with [15] Experience [in this city]",
 			"Destroyed when the city is captured"],
@@ -78,7 +78,8 @@
 		"happiness": 2,
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+		"uniques": ["Hidden when religion is disabled",
+			"Destroyed when the city is captured"]
    	},
     {
 		"name": "Tekram",
@@ -128,7 +129,7 @@
 		"culture": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Gold] once [Flight] is discovered",
+		"uniques": ["[+1 Gold] <after discovering [Flight]>",
 			"Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
     },
@@ -155,7 +156,6 @@
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
-		"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
 		"requiredTech": "Banking"
     },
 	{
@@ -167,8 +167,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["[+25]% great person generation [in this city]",
-			"[+10]% Production when constructing [All] buildings [in this city]"],
+		"uniques": ["[+25]% great person generation [in this city]"],
 		"requiredTech": "Economics"
 	}
 ]
