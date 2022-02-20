@@ -5,8 +5,7 @@
 		"culture": 1,
 		"turnsToBuild": 4,
 		"uniques": ["[+1 Culture] for each adjacent [Iaom]",
-			"[+1 Gold] <after discovering [Flight]>",
-			"[+1 Gold] once [Flight] is discovered"],
+			"[+1 Gold] <after discovering [Flight]>"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"
 	},
