@@ -38,7 +38,7 @@
 			"[-66]% maintenance costs <for [Water] units>", "50% chance of capturing defeated Barbarian naval units and earning 25 Gold",
 			"[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]", "Receive a tech boost when scientific buildings/wonders are built in capital",
 			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
-			"Golden Age length increased by [50]%", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>",
+			"[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>",
 			"Enables embarkation for land units <starting from the [Ancient era]>", "Enables embarked units to enter ocean tiles <starting from the [Ancient era]>", "Normal vision when embarked <for [All] units>", "+[10]% Strength if within [2] tiles of a [Iaom]",
 			"[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+10] XP",
 			"100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)", "Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled",
@@ -55,7 +55,7 @@
 			"May choose [1] additional belief(s) of any type when [founding] a religion",
 			"[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>", "[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
 			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
-			"Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.", "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
+			"Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once."],
 		"cities": ["Eht Latipac","Nolybab","Snehta","Gnijieb","Sebeht","Nodnol","Sirap","Wocsom","Emor","Accem","Notgnihsaw","Otoyk","Ihled","Nilreb","Lubnatsi","Luoes","Agadnoono","Silopesrep","Ululonoh","Iahtohkus","Dirdam","Oag","Murokarak","Naltithconet","Oczuc","Negahnepoc","Mlohkcots","S'Alitta Truoc","Madretsma","Nilam","Ecnerolf","Oir ed Orienaj","Prewtna","Nilbud","Eryt","Ru","Aoneg","Ecinev","Slessurb","Lubak","Nodis","Ytamla","Hgrubnide","Eropagnis","Rabiznaz","Yendys","Epac Nwot","Udnamhtak","Ionah","Cebeuq Ytic","Iknisleh","Alauk Rupmul","Alinam","Asahl","Revuocnav","Ognok-Aznab'M","Uhsidagom"]
 	}
 ]
