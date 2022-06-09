@@ -2,9 +2,11 @@
 	{
 		"name": "Iaom",
 		"uniqueTo": "Upside-Down",
+		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
 		"turnsToBuild": 4,
-		"uniques": ["[+1 Culture] for each adjacent [Iaom]",
+		"uniques": ["Can only be built on [Coastal] tiles",
+			"[+1 Culture] for each adjacent [Iaom]",
 			"[+1 Gold] <after discovering [Flight]>"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"

@@ -8,11 +8,8 @@
 		"strength": 8,
 		"cost": 20,
         "obsoleteTech": "Metal Casting",
-		"promotions": ["Haka War Dance","Woodsman"],
-		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>",
-			"[+33]% Strength <when fighting in [Jungle] tiles>",
-			"Heals [25] damage if it kills a unit",
-			"May upgrade to [Spearman] through ruins-like effects"],
+		"promotions": ["Haka War Dance","[Jaguar] ability","Woodsman"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
@@ -26,7 +23,7 @@
 		"rangedStrength": 9,
 		"cost": 36,
 		"requiredTech": "Agriculture",
-        "obsoleteTech": "Machinery",
+        "obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"promotions": ["Slinger Withdraw"],
 		"attackSound": "arrow"
@@ -43,7 +40,7 @@
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles",
 			"[+50]% Strength <vs [Water] units>"],
-		"upgradesTo": "Caravel",
+		"upgradesTo": "Galleass",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "arrow"
 	},
@@ -75,10 +72,9 @@
         "obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>",
-			"[+10] HP when healing",
 			"[+300]% Strength <vs cities> <when attacking>",
 			"Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
-		"promotions":  ["Cover I", "Pictish Courage"],
+		"promotions":  ["[Persian Immortal] ability", "Cover I", "Pictish Courage"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -112,10 +108,9 @@
         "obsoleteTech": "Gunpowder",
 		"upgradesTo": "Longswordsman",
 		"uniques": ["Can build [Road] improvements on tiles",
-			"Can build [Fort] improvements on tiles",
-			"[+33]% Strength <when fighting in [Forest] tiles>",
-			"[+33]% Strength <when fighting in [Jungle] tiles>"],
+			"Can build [Fort] improvements on tiles"],
 		"hurryCostModifier": 20,
+		"promotions": ["[Mohawk Warrior] ability"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -133,7 +128,7 @@
 			"No defensive terrain bonus",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"[-25]% Strength <vs cities>"],
-		"promotions": ["Great Generals I"],
+		"promotions": ["Great Generals II"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -178,7 +173,7 @@
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Metal Casting",
-        "obsoleteTech": "Gunpowder",
+        "obsoleteTech": "Metallurgy",
 		"upgradesTo": "Musketman",
 		"requiredResource": "Iron",
         "promotions": ["Shock I", "Great Generals II","Amphibious"],
@@ -196,7 +191,7 @@
         "obsoleteTech": "Gunpowder",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 			"Can move immediately once bought"],
-		"upgradesTo": "Musketman",
+		"upgradesTo": "Lancer",
 		"attackSound": "metalhit"
 	},
 	{
@@ -204,7 +199,6 @@
 		"replaces": "Knight",
 		"uniqueTo": "Upside-Down",
 		"unitType": "Archery",
-		"range": 2,
 		"movement": 5,
 		"strength": 25,
 		"rangedStrength": 21,
@@ -216,9 +210,8 @@
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"Founds a new city <on foreign continents>",
-			"[+2] Sight",
-			"Defense bonus when embarked"],
-        "promotions": ["Great Generals I", "Quick Study"],
+			"[+2] Sight"],
+        "promotions": ["[Conquistador] ability", "Great Generals I", "Quick Study"],
 		"attackSound": "arrow"
 	},
 	{
@@ -249,10 +242,8 @@
         "obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>",
-			"Heals [50] damage if it kills a unit",
-			"[+25]% Strength <when attacking>",
 			"Ignores terrain cost"],
-		"promotions": ["Drill I"],
+		"promotions": ["[Janissary] ability", "Drill I"],
 		"attackSound": "shot"
 	},
 	{
@@ -284,6 +275,7 @@
         "obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Recnal",
@@ -299,10 +291,8 @@
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs cities>",
-			"Transfer Movement to [Great General]",
-			"[+15]% Strength when stacked with [Great General]",
-			"No movement cost to pillage"],
-		"promotions": ["Formation I"],
+			"[+1] Sight"],
+		"promotions": ["Formation I", "[Sipahi] ability", "[Hakkapeliitta] ability"],
 		"upgradesTo": "Anti-Tank Gun",
 		"attackSound": "horse"
 	},
@@ -317,13 +307,7 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"uniques": ["[+25]% Strength <when fighting in [Snow] tiles>",
-			"[+25]% Strength <when fighting in [Tundra] tiles>",
-			"[+25]% Strength <when fighting in [Hill] tiles>",
-			"Double movement in [Snow]",
-			"Double movement in [Tundra]",
-			"Double movement in [Hill]"],
-		"promotions": ["Drill I","Home Sweet Home","March"],
+		"promotions": ["[Norwegian Ski Infantry] ability", "March", "Drill I","Home Sweet Home"],
 		"attackSound": "shot"
 	},
 	{
@@ -339,10 +323,10 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking",
-			"No defensive terrain bonus","[-33]% Strength <vs cities>" ,
-			"[+1] Sight",
-			"[+50]% to Flank Attack bonuses",
-			"[+50]% Strength <vs [Wounded] units>"],
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities>",
+			"[+1] Sight"],
+		"promotions": ["[Cossack] ability", "[Hussar] ability"],
 		"attackSound": "horse"
 	},
 	{
@@ -355,12 +339,14 @@
 		"strength": 45,
 		"rangedStrength": 45,
 		"range": 8,
+		"interceptRange": 8,
 		"cost": 375,
 		"requiredTech": "Radar",
 		"uniques": ["[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Bomber] units>",
 			"[+150]% Strength <vs [Helicopter] units>",
 			"[+33]% Strength <vs [Fighter] units>"],
+		"promotions": ["[Zero] ability"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -414,7 +400,7 @@
 		"uniqueTo": "Upside-Down",
 		"replaces": "Great General",
 		"uniques": ["Can start an [8]-turn golden age",
-			"Bonus for units in 2 tile radius 15%",
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"All adjacent units heal [+15] HP when healing",
 			"[+15] HP when healing",
 			"Can construct [Citadel]",
