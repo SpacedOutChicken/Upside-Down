@@ -139,7 +139,11 @@
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+<<<<<<< HEAD
 			"[-25]% Strength <vs cities> <when attacking>"],
+=======
+			"[-25]% Strength <vs cities>"],
+>>>>>>> 962578aa65872105d6c435431782be9e4639ea7a
 		"promotions": ["Great Generals II"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
@@ -286,7 +290,11 @@
 		"requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
+<<<<<<< HEAD
 		"hurryCostModifier": 20,
+=======
+		"hurryCostModifier": 20
+>>>>>>> 962578aa65872105d6c435431782be9e4639ea7a
 		"attackSound": "cannon"
 	},
 	{
@@ -302,7 +310,11 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
+<<<<<<< HEAD
 			"[-33]% Strength <vs cities> <when attacking>",
+=======
+			"[-33]% Strength <vs cities>",
+>>>>>>> 962578aa65872105d6c435431782be9e4639ea7a
 			"[+1] Sight"],
 		"promotions": ["Formation I", "[Sipahi] ability", "[Hakkapeliitta] ability"],
 		"upgradesTo": "Anti-Tank Gun",
@@ -336,7 +348,11 @@
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
+<<<<<<< HEAD
 			"[-33]% Strength <vs cities> <when attacking>",
+=======
+			"[-33]% Strength <vs cities>",
+>>>>>>> 962578aa65872105d6c435431782be9e4639ea7a
 			"[+1] Sight"],
 		"promotions": ["[Cossack] ability", "[Hussar] ability"],
 		"attackSound": "horse"
@@ -356,7 +372,12 @@
 		"requiredTech": "Radar",
 		"uniques": ["[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Bomber] units>",
+<<<<<<< HEAD
 			"[+150]% Strength <vs [Helicopter] units>"],
+=======
+			"[+150]% Strength <vs [Helicopter] units>",
+			"[+33]% Strength <vs [Fighter] units>"],
+>>>>>>> 962578aa65872105d6c435431782be9e4639ea7a
 		"promotions": ["[Zero] ability"],
 		"attackSound": "machinegun"
 	},
