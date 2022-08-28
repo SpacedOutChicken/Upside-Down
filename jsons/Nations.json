@@ -16,7 +16,7 @@
 		
 		"neutralHello": "Peace you wish I.",
 		"hateHello": "Want you do what?",
-		"tradeRequest": "Me with deal this make to – existing for reason a have do you that appears it.",
+		"tradeRequest": "Me with deal this make to - existing for reason a have do you that appears it.",
 
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
@@ -56,6 +56,7 @@
 			"[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>", "[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
 			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
 			"Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once."],
-		"cities": ["Eht Latipac","Nolybab","Snehta","Gnijieb","Sebeht","Nodnol","Sirap","Wocsom","Emor","Accem","Notgnihsaw","Otoyk","Ihled","Nilreb","Lubnatsi","Luoes","Agadnoono","Silopesrep","Ululonoh","Iahtohkus","Dirdam","Oag","Murokarak","Naltithconet","Oczuc","Negahnepoc","Mlohkcots","S'Alitta Truoc","Madretsma","Nilam","Ecnerolf","Oir ed Orienaj","Prewtna","Nilbud","Eryt","Ru","Aoneg","Ecinev","Slessurb","Lubak","Nodis","Ytamla","Hgrubnide","Eropagnis","Rabiznaz","Yendys","Epac Nwot","Udnamhtak","Ionah","Cebeuq Ytic","Iknisleh","Alauk Rupmul","Alinam","Asahl","Revuocnav","Ognok-Aznab'M","Uhsidagom"]
+		"cities": ["Eht Latipac","Nolybab","Snehta","Gnijieb","Sebeht","Nodnol","Sirap","Wocsom","Emor","Accem","Notgnihsaw","Otoyk","Ihled","Nilreb","Lubnatsi","Luoes","Agadnoono","Silopesrep","Ululonoh","Iahtohkus","Dirdam","Oag","Murokarak","Naltithconet","Oczuc","Negahnepoc","Mlohkcots","S'Alitta Truoc","Madretsma","Nilam","Ecnerolf","Oir ed Orienaj","Prewtna","Nilbud","Eryt","Ru","Aoneg","Ecinev","Slessurb","Lubak","Nodis","Ytamla","Hgrubnide","Eropagnis","Rabiznaz","Yendys","Epac Nwot","Udnamhtak","Ionah","Cebeuq Ytic","Iknisleh","Alauk Rupmul","Alinam","Asahl","Revuocnav","Ognok-Aznab'M","Uhsidagom"],
+		"spyNames": ["II Nis-Mir","Nosaj","Il","Taafer","Semaj","Naej-Luap","Iexela","Suivalf","Taafohlos","Nisuoc","Ihsiaka","Kohsa","Nnahoj"]
 	}
 ]
