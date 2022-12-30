@@ -3,7 +3,6 @@
 		"name": "Upside-Down",
 		"leaderName": "Rotatceps",
 		"adjective": ["Upside-Down"],
-		//No preferred victory type - we'll take any kind!
 		"style": "Upside Down",
 		
 		"startIntroPart1": "History in best the among generals and soldiers its, other the to world the of end one from battle into triumphantly marched have armies its.nation great a as endured has Down-Upside - enemies often and - competitors by surrounded although. Letters and arts, culture of center world the been Down-Upside has long. Rotatceps, you to triumph and life long.",
@@ -28,7 +27,7 @@
 			"[+20]% Production when constructing [All] wonders [in all cities]",
 			"[+2] Movement <for [Water] units>",
 			"[+2 Culture] [in all cities] <before discovering [Steam Power]>",
-			"[+1 Production] from every [Strategic Resource]", "Double quantity of [Horses] produced", "Double quantity of [Iron] produced", "Double quantity of [Uranium] produced",
+			"[+1 Production] from every [Strategic resource]", "Double quantity of [Horses] produced", "Double quantity of [Iron] produced", "Double quantity of [Uranium] produced",
 			"[+25]% Production towards any buildings that already exist in the Capital",
 			"[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced",
 			"[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]",
