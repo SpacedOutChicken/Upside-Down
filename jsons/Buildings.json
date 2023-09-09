@@ -124,6 +124,7 @@
 		"name": "Eltsac",
 		"replaces": "Castle",
 		"uniqueTo": "Upside-Down",
+		"cost": 150,
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"culture": 2,
