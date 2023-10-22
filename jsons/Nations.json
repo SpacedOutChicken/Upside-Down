@@ -21,7 +21,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "The World Turned Upside-Down",
 		"uniqueText": "All the special advantages that other nations have, combined into one, with none of the special disadvantages. Are you ready to turn the world upside down?",
-		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster",
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing]>", "[Great Scientist] is earned [50]% faster",
 			"[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
 			"[+20]% Production when constructing [All] wonders [in all cities]",
