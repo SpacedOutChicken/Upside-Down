@@ -6,149 +6,149 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Arepo Esuoh
   rotate: false
-  xy: 4, 400
+  xy: 4, 184
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Elpmet
   rotate: false
-  xy: 112, 400
+  xy: 4, 76
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Eltsac
   rotate: false
-  xy: 4, 184
+  xy: 320, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Enirhs
   rotate: false
-  xy: 220, 400
+  xy: 536, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Knab
   rotate: false
-  xy: 220, 292
+  xy: 860, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Llimdniw
   rotate: false
-  xy: 328, 292
+  xy: 1184, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Pohskrow
   rotate: false
-  xy: 652, 400
+  xy: 112, 76
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Retaw Llim
   rotate: false
-  xy: 652, 184
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 292
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Skcarrab
   rotate: false
-  xy: 544, 76
+  xy: 436, 175
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sllaw
   rotate: false
-  xy: 760, 184
+  xy: 436, 67
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tekram
   rotate: false
-  xy: 868, 190
+  xy: 544, 74
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tnemunom
   rotate: false
-  xy: 760, 76
+  xy: 760, 176
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Yrarbil
   rotate: false
-  xy: 1192, 400
+  xy: 976, 176
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ytisrevinu
   rotate: false
-  xy: 1192, 292
+  xy: 1084, 176
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Ecarret mraf
   rotate: false
-  xy: 4, 292
+  xy: 212, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Iaom
   rotate: false
-  xy: 112, 183
+  xy: 752, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Redlop
   rotate: false
-  xy: 652, 292
+  xy: 220, 68
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Upside-Down
   rotate: false
-  xy: 976, 184
+  xy: 868, 176
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ecarret mraf
   rotate: false
-  xy: 1232, 220
+  xy: 1192, 248
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Iaom
   rotate: false
-  xy: 1340, 324
+  xy: 1392, 355
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Redlop
   rotate: false
-  xy: 324, 40
-  size: 32, 28
-  orig: 32, 28
+  xy: 1592, 355
+  size: 32, 29
+  orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Upside Down
@@ -160,28 +160,28 @@ TileSets/FantasyHex/Units/Anti-Aircraft Gun-Upside Down
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Upside Down
   rotate: false
-  xy: 976, 148
+  xy: 652, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-Upside Down
   rotate: false
-  xy: 1300, 472
+  xy: 1192, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Upside Down
   rotate: false
-  xy: 1192, 256
+  xy: 44, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rehcra
   rotate: false
-  xy: 1192, 256
+  xy: 44, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -195,826 +195,826 @@ TileSets/FantasyHex/Units/Artillery-Upside Down
   index: -1
 TileSets/FantasyHex/Units/Battleship-Upside Down
   rotate: false
-  xy: 44, 40
+  xy: 652, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-Upside Down
   rotate: false
-  xy: 976, 112
+  xy: 692, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cannon-Upside Down
   rotate: false
-  xy: 1016, 148
+  xy: 1192, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravan-Upside Down
   rotate: false
-  xy: 1300, 430
+  xy: 1232, 350
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-Upside Down
   rotate: false
-  xy: 1340, 472
+  xy: 84, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cargo Ship-Upside Down
   rotate: false
-  xy: 1192, 220
+  xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Carolean-Upside Down
   rotate: false
-  xy: 1232, 256
+  xy: 692, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Carrier-Upside Down
   rotate: false
-  xy: 44, 4
+  xy: 732, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Catapult-Upside Down
   rotate: false
-  xy: 84, 40
+  xy: 1192, 284
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Upside Down
   rotate: false
-  xy: 1016, 112
+  xy: 1232, 314
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Yrlavac
   rotate: false
-  xy: 1016, 112
+  xy: 1232, 314
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-Upside Down
   rotate: false
-  xy: 1056, 148
+  xy: 1272, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Toirahc Rehcra
   rotate: false
-  xy: 1056, 148
+  xy: 1272, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/CivilianLandUnit-Upside Down
   rotate: false
-  xy: 1300, 394
+  xy: 124, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Upside Down
   rotate: false
-  xy: 1340, 436
+  xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Upside Down
   rotate: false
-  xy: 1380, 472
+  xy: 732, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Namwobssorc
   rotate: false
-  xy: 1380, 472
+  xy: 732, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Destroyer-Upside Down
   rotate: false
-  xy: 1192, 184
+  xy: 772, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Etagirf
   rotate: false
-  xy: 84, 4
+  xy: 1232, 278
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-Upside Down
   rotate: false
-  xy: 124, 40
+  xy: 1272, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-Upside Down
   rotate: false
-  xy: 1056, 112
+  xy: 1312, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Upside Down
   rotate: false
-  xy: 1096, 148
+  xy: 164, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Upside Down
   rotate: false
-  xy: 1300, 355
+  xy: 1192, 209
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Admiral-Upside Down
   rotate: false
-  xy: 1340, 397
+  xy: 1232, 239
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-Upside Down
   rotate: false
-  xy: 1380, 436
+  xy: 124, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-Upside Down
   rotate: false
-  xy: 1420, 472
+  xy: 772, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Galleass-Upside Down
   rotate: false
-  xy: 1232, 184
+  xy: 812, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-Upside Down
   rotate: false
-  xy: 1300, 316
+  xy: 1272, 281
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Taerg Lareneg
   rotate: false
-  xy: 1300, 316
+  xy: 1272, 281
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant-Upside Down
   rotate: false
-  xy: 124, 4
+  xy: 1312, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Musician-Upside Down
   rotate: false
-  xy: 164, 40
+  xy: 1352, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Prophet-Upside Down
   rotate: false
-  xy: 1096, 112
+  xy: 164, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-Upside Down
   rotate: false
-  xy: 1136, 148
+  xy: 812, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-Upside Down
   rotate: false
-  xy: 1340, 361
+  xy: 852, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Taerg Raw Yrtnafni
   rotate: false
-  xy: 1340, 361
+  xy: 852, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Writer-Upside Down
   rotate: false
-  xy: 1380, 400
+  xy: 1272, 245
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-Upside Down
   rotate: false
-  xy: 1420, 436
+  xy: 1312, 284
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Upside Down
   rotate: false
-  xy: 1460, 472
+  xy: 1352, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Namesroh
   rotate: false
-  xy: 1460, 472
+  xy: 1352, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Upside Down
   rotate: false
-  xy: 164, 4
+  xy: 852, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Inquisitor-Upside Down
   rotate: false
-  xy: 204, 40
+  xy: 892, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ironclad-Upside Down
   rotate: false
-  xy: 1136, 112
+  xy: 1312, 248
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knat
   rotate: false
-  xy: 1176, 148
+  xy: 1352, 284
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-Upside Down
   rotate: false
-  xy: 1380, 364
+  xy: 1392, 319
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Thgink
   rotate: false
-  xy: 1380, 364
+  xy: 1392, 319
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Kris Swordsman-Upside Down
   rotate: false
-  xy: 1420, 400
+  xy: 1432, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-Upside Down
   rotate: false
-  xy: 1460, 436
+  xy: 892, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Recnal
   rotate: false
-  xy: 1460, 436
+  xy: 892, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/LandUnit-Upside Down
   rotate: false
-  xy: 1500, 472
+  xy: 932, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Upside Down
   rotate: false
-  xy: 204, 4
+  xy: 1352, 248
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Levarac
   rotate: false
-  xy: 244, 40
+  xy: 1392, 283
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Upside Down
   rotate: false
-  xy: 1176, 112
+  xy: 1432, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Namsdrowsgnol
   rotate: false
-  xy: 1176, 112
+  xy: 1432, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Upside Down
   rotate: false
-  xy: 1216, 148
+  xy: 1472, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Upside Down
   rotate: false
-  xy: 1380, 328
+  xy: 932, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-Upside Down
   rotate: false
-  xy: 1420, 364
+  xy: 972, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Missile Cruiser-Upside Down
   rotate: false
-  xy: 1460, 400
+  xy: 1432, 284
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Missionary-Upside Down
   rotate: false
-  xy: 1500, 436
+  xy: 1472, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-Upside Down
   rotate: false
-  xy: 1540, 472
+  xy: 1512, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Upside Down
   rotate: false
-  xy: 244, 4
+  xy: 972, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-Upside Down
   rotate: false
-  xy: 284, 40
+  xy: 1012, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Namteksum
   rotate: false
-  xy: 284, 40
+  xy: 1012, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Namekip
   rotate: false
-  xy: 1216, 112
+  xy: 1472, 284
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-Upside Down
   rotate: false
-  xy: 1216, 112
+  xy: 1472, 284
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Namelfir
   rotate: false
-  xy: 1420, 328
+  xy: 1512, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Upside Down
   rotate: false
-  xy: 1420, 328
+  xy: 1512, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Namraeps
   rotate: false
-  xy: 1460, 364
+  xy: 1552, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Upside Down
   rotate: false
-  xy: 1460, 364
+  xy: 1552, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Namsdrows
   rotate: false
-  xy: 1500, 400
+  xy: 1012, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Upside Down
   rotate: false
-  xy: 1500, 400
+  xy: 1012, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Nuclear Submarine-Upside Down
   rotate: false
-  xy: 1540, 436
+  xy: 1052, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Upside Down
   rotate: false
-  xy: 1580, 472
+  xy: 1512, 284
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-Upside Down
   rotate: false
-  xy: 284, 4
+  xy: 1552, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-Upside Down
   rotate: false
-  xy: 1460, 328
+  xy: 1052, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Roirraw
   rotate: false
-  xy: 1500, 364
+  xy: 1092, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Upside Down
   rotate: false
-  xy: 1500, 364
+  xy: 1092, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/SS Booster-Upside Down
   rotate: false
-  xy: 1540, 400
+  xy: 1552, 284
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/SS Cockpit-Upside Down
   rotate: false
-  xy: 1580, 436
+  xy: 1592, 319
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/SS Engine-Upside Down
   rotate: false
-  xy: 1620, 472
+  xy: 1632, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/SS Stasis Chamber-Upside Down
   rotate: false
-  xy: 324, 4
+  xy: 1092, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Upside Down
   rotate: false
-  xy: 364, 40
+  xy: 1132, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Upside Down
   rotate: false
-  xy: 1500, 327
+  xy: 1632, 319
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Submarine-Upside Down
   rotate: false
-  xy: 1540, 366
+  xy: 1392, 249
   size: 32, 26
   orig: 32, 26
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Upside Down
   rotate: false
-  xy: 1580, 400
+  xy: 1672, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tehcubert
   rotate: false
-  xy: 1620, 436
+  xy: 1132, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tlupatac
   rotate: false
-  xy: 1660, 472
+  xy: 1672, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trebuchet-Upside Down
   rotate: false
-  xy: 364, 4
+  xy: 1712, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-Upside Down
   rotate: false
-  xy: 404, 40
+  xy: 1712, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/WaterUnit-Upside Down
   rotate: false
-  xy: 1540, 332
+  xy: 1432, 250
   size: 32, 26
   orig: 32, 26
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-Upside Down
   rotate: false
-  xy: 1580, 364
+  xy: 1752, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Upside Down
   rotate: false
-  xy: 1620, 400
+  xy: 1752, 320
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Yellag
   rotate: false
-  xy: 1660, 436
+  xy: 1792, 356
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Emerirt
   rotate: false
-  xy: 112, 291
+  xy: 428, 391
   size: 100, 101
   orig: 100, 101
   offset: 0, 0
   index: -1
 UnitIcons/Etagirf
   rotate: false
-  xy: 4, 76
+  xy: 644, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Knat
   rotate: false
-  xy: 328, 400
+  xy: 968, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Levarac
   rotate: false
-  xy: 220, 184
+  xy: 1076, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Namekip
   rotate: false
-  xy: 436, 400
+  xy: 1292, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Namelfir
   rotate: false
-  xy: 328, 184
+  xy: 1400, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Namesroh
   rotate: false
-  xy: 436, 292
+  xy: 1508, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Namraeps
   rotate: false
-  xy: 544, 400
+  xy: 1616, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Namsdrows
   rotate: false
-  xy: 436, 184
+  xy: 1724, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Namsdrowsgnol
   rotate: false
-  xy: 544, 292
+  xy: 1832, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Namteksum
   rotate: false
-  xy: 112, 76
+  xy: 1940, 393
   size: 100, 99
   orig: 100, 99
   offset: 0, 0
   index: -1
 UnitIcons/Namwobssorc
   rotate: false
-  xy: 220, 76
+  xy: 112, 184
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rebmob
   rotate: false
-  xy: 544, 184
+  xy: 220, 284
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Recnal
   rotate: false
-  xy: 328, 76
+  xy: 220, 176
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Reetavirp
   rotate: false
-  xy: 760, 400
+  xy: 328, 283
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rehcra
   rotate: false
-  xy: 436, 76
+  xy: 328, 175
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rethgif
   rotate: false
-  xy: 760, 292
+  xy: 328, 67
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Roirraw
   rotate: false
-  xy: 868, 400
+  xy: 436, 283
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Taerg Lareneg
   rotate: false
-  xy: 868, 298
+  xy: 544, 290
   size: 100, 94
   orig: 100, 94
   offset: 0, 0
   index: -1
 UnitIcons/Taerg Raw Yrtnafni
   rotate: false
-  xy: 976, 400
+  xy: 544, 182
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tehcubert
   rotate: false
-  xy: 652, 76
+  xy: 652, 284
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Thgink
   rotate: false
-  xy: 976, 292
+  xy: 652, 176
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tlupatac
   rotate: false
-  xy: 1084, 400
+  xy: 760, 284
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Toirahc Rehcra
   rotate: false
-  xy: 868, 82
+  xy: 868, 284
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Yellag
   rotate: false
-  xy: 1084, 292
+  xy: 976, 284
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Yrlavac
   rotate: false
-  xy: 1084, 184
+  xy: 1084, 284
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
