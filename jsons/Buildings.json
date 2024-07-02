@@ -168,7 +168,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"uniques": ["[+25]% Great Person generation [in this city]", "[+10]% Production when constructing [All] buildings [in this city]"],
 		"requiredTech": "Economics"
 	}
 ]

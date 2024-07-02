@@ -140,7 +140,7 @@
 			"No defensive terrain bonus",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"[-25]% Strength <vs cities> <when attacking>"],
-		"promotions": ["Great Generals II"],
+		"promotions": ["Great Generals I", "Great Generals II"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -238,7 +238,7 @@
         "obsoleteTech": "Combustion",
 		"upgradesTo": "Ironclad",
 		"uniques": ["[+1] Sight",
-			"May withdraw before melee ([80]%)"],
+			"Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},
@@ -268,8 +268,7 @@
 		"cost": 150,
 		"requiredTech": "Navigation",
 		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply"],
-		"uniques": ["May capture killed [Water] units"],
+		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply", "[Privateer] ability"],
 		"attackSound": "cannon"
 	},
 	{
