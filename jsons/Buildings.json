@@ -19,7 +19,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Only available <when religion is enabled>"]
 	},
 	{
     	"name": "Yrarbil",
@@ -78,7 +78,7 @@
 		"happiness": 2,
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled",
+		"uniques": ["Only available <when religion is enabled>",
 			"Destroyed when the city is captured"]
    	},
     {
