@@ -8,7 +8,7 @@
 		"strength": 8,
 		"cost": 20,
         "obsoleteTech": "Metal Casting",
-		"promotions": ["Haka War Dance","[Jaguar] ability","Woodsman"],
+		"promotions": ["[Roirraw] ability", "Woodsman"],
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
@@ -25,7 +25,7 @@
 		"requiredTech": "Agriculture",
         "obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
-		"promotions": ["Slinger Withdraw"],
+		"promotions": ["[Rehcra] ability"],
 		"attackSound": "arrow"
 	},
 	{
@@ -86,7 +86,7 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 			"[+300]% Strength <vs cities> <when attacking>",
 			"Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
-		"promotions":  ["[Persian Immortal] ability", "Cover I", "Pictish Courage"],
+		"promotions":  ["[Namraeps] ability", "Cover I"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -122,7 +122,7 @@
 		"uniques": ["Can build [Road] improvements on tiles",
 			"Can build [Fort] improvements on tiles"],
 		"hurryCostModifier": 20,
-		"promotions": ["[Mohawk Warrior] ability"],
+		"promotions": ["[Namsdrows] ability"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -156,7 +156,7 @@
 		"requiredTech": "Machinery",
         "obsoleteTech": "Industrialization",
 		"upgradesTo": "Gatling Gun",
-		"promotions": ["[Chu-Ko-Nu] ability","Extended Range"],
+		"promotions": ["[Namwobssorc] ability", "Extended Range"],
 		"attackSound": "arrow"
 	},
 	{
@@ -188,7 +188,7 @@
         "obsoleteTech": "Metallurgy",
 		"upgradesTo": "Musketman",
 		"requiredResource": "Iron",
-        "promotions": ["Shock I", "Great Generals II","Amphibious"],
+        "promotions": ["Shock I", "Great Generals II", "Amphibious"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -223,7 +223,7 @@
 			"No defensive terrain bonus",
 			"Founds a new city <on foreign continents>",
 			"[+2] Sight"],
-        "promotions": ["[Conquistador] ability", "Great Generals I", "Quick Study"],
+        "promotions": ["[Thgink] ability", "Great Generals I", "Quick Study"],
 		"attackSound": "arrow"
 	},
 	{
@@ -255,7 +255,7 @@
 		"upgradesTo": "Rifleman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 			"Ignores terrain cost"],
-		"promotions": ["[Janissary] ability", "Drill I"],
+		"promotions": ["[Namteksum] ability", "Drill I"],
 		"attackSound": "shot"
 	},
 	{
@@ -303,7 +303,7 @@
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
-		"promotions": ["Formation I", "[Sipahi] ability", "[Hakkapeliitta] ability"],
+		"promotions": ["Formation I", "[Recnal] ability"],
 		"upgradesTo": "Anti-Tank Gun",
 		"attackSound": "horse"
 	},
@@ -318,7 +318,7 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"promotions": ["[Norwegian Ski Infantry] ability", "March", "Drill I","Home Sweet Home"],
+		"promotions": ["[Namelrif] ability", "March", "Drill I"],
 		"attackSound": "shot"
 	},
 	{
@@ -337,7 +337,7 @@
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
-		"promotions": ["[Cossack] ability", "[Hussar] ability"],
+		"promotions": ["[Yrlavac] ability"],
 		"attackSound": "horse"
 	},
 	{
@@ -356,7 +356,7 @@
 		"uniques": ["[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Bomber] units>",
 			"[+150]% Strength <vs [Helicopter] units>"],
-		"promotions": ["[Zero] ability"],
+		"promotions": ["[Rethgif] ability"],
 		"attackSound": "machinegun"
 	},
 	{
