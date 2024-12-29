@@ -318,7 +318,7 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"promotions": ["[Namelrif] ability", "March", "Drill I"],
+		"promotions": ["[Namelfir] ability", "March", "Drill I"],
 		"attackSound": "shot"
 	},
 	{
