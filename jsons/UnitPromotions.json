@@ -54,7 +54,8 @@
 		"uniques": [
 			"No movement cost to pillage",
 			"Transfer Movement to [Great General]",
-			"[+15]% Strength when stacked with [Great General]"
+			"[+15]% Strength when stacked with [Great General]",
+			"[+33]% Strength <vs [Mounted] units>"
 		]
 	},
 	{
@@ -81,5 +82,9 @@
 		"uniques": [
 			"[+33]% Strength <vs [Fighter] units>"
 		]
+	},
+	{
+		"name": "[Reetavirp] ability",
+		"uniques": ["May capture killed [Water] units"]
 	}
 ]

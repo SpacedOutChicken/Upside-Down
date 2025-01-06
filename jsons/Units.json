@@ -268,7 +268,7 @@
 		"cost": 150,
 		"requiredTech": "Navigation",
 		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply", "[Privateer] ability"],
+		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply", "[Reetavirp] ability"],
 		"attackSound": "cannon"
 	},
 	{
@@ -303,7 +303,7 @@
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
-		"promotions": ["Formation I", "[Recnal] ability"],
+		"promotions": ["[Recnal] ability"],
 		"upgradesTo": "Anti-Tank Gun",
 		"attackSound": "horse"
 	},
