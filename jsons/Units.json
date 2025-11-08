@@ -188,6 +188,7 @@
         "obsoleteTech": "Metallurgy",
 		"upgradesTo": "Musketman",
 		"requiredResource": "Iron",
+		"uniques": ["Can instantly construct a [Fishing Boats] improvement"],
         "promotions": ["Shock I", "Great Generals II", "Amphibious"],
 		"attackSound": "metalhit"
 	},

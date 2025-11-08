@@ -164,7 +164,7 @@
 		"replaces": "Windmill",
 		"uniqueTo": "Upside-Down",
 		"production": 2,
-		"percentStatBonus": {"production": 10},
+		"percentStatBonus": {"production": 5},
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 2,
