@@ -41,7 +41,7 @@
 			"Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "[+1] Sight <for [Embarked] units>", "[+10]% Strength <within [2] tiles of a [Iaom]>",
 			"[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+10] XP",
 			"[+100 Gold] for discovering a Natural Wonder (bonus enhanced to [+500 Gold] if first to discover it)","[+1 Happiness] for every known Natural Wonder", "[+100]% Yield from every [Natural Wonder]",
-			"Receive triple Gold from Barbarian encampments and pillaging Cities", "[+100]% Strength <when defending> <for [Embarked] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
+			"Receive [+200]% Gold from Barbarian encampments and pillaging Cities", "[+100]% Strength <when defending> <for [Embarked] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
 			"[+30]% Strength <vs [City-States]>", "[+1] Movement <for [Mounted] units>",
 			"Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
 			"Units ignore terrain costs when moving into any tile with Hills", "[-50]% maintenance on road & railroads", "No Maintenance costs for improvements in [Hill] tiles",
